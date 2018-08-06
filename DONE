@@ -1,0 +1,121 @@
+1) download images and text from project
+ 2) images go to directory pngs, text in main directory
+* lunch:
+     perl guiguts.pl -font 20
+* open txt file
+* Save project as first pass... --> 001
+* Adjusting Page Numbers:  Right click on the box named "Lbl: None." (save)
+* Remove blank page tags by search and replacing [Blank Page] with nothing.
+  Check the "Regex" and "Start at Beginning" boxes are checked.
+  Search for: \n\[Blank Page\]\n
+  Replace with: \n
+* check for Illustration  (search Illustration)
+* Choose Tools > Fixup page separators; select 80% auto (leave hyphene word with *)  --> 002
+* Proofer notes, search for [* LOG--> 003
+
+
+
+
+
+
+
+
+=============================
+
+* Choose Tools > Fixup page separators; select 80% auto (leave hyphene word with *)  --> 002
+* Proofer notes, search for [* LOG--> 003
+ 13) Txt > Convert tb to asterisks.
+ 9) Questionably broken words or -* --> 003
+ 12) Search > Orphaned DP markup. Tools > Check orphaned brackets.
+ 14) Tools >Jeebies.  (Cheks)
+ 15) Tools > Word Frequency. --> 004
+ 16) Tools > Stealth Scannos Use this dialog to navigate to one of the three files distributed with Guiguts, which are:
+
+en-common.rc	Several dozen scannos often found in English text, such as "arid" for "and."
+mispelled.rc	A file of about 3,400 literal scan errors that have been seen in DP projects.
+regex.rc	A file with a few dozen sophisticated regular expressions designed to find common errors.
+ 17) Tools > spellcheck.  --> 005
+ 18) Tools > Gutcheck. I replace gutcheck with bookloupe (
+ *) save two files with extension txt and html
+ *) TXT
+ *) add tranciber's notes at the file end
+ *) Converting Tags txt -> convert italics, convert bold
+ *) 
+
+
+ 10)    footnotes
+ 11)  Illustrations
+
+
+==================
+Transcriber's Notes
+-------------------
+
+Spelling and hyphenation have been retained as in the original
+publication, except as follows:
+
+  Page   1 "a sleepy world died gently away" replaced by 
+           "a sleepy world died gently away."
+  Page  16 "the infinite sepulchre of the ocean" replaced by
+           "the infinite sepulchre of the ocean."
+  Page  17 "your throat?...." replaced by "your throat?..."
+  Page  44 "I....no." replaced by "I ... no."
+  Page  57 "and as she eat" replaced by "and as she ate"
+  Page  95 "very, very dearly.." replaced by "very, very dearly."
+  Page 115 removed new paragraph between "But what is this?" and "Blood?"
+  Page 141 '"Good, good!" cried Nela, delighted, "But' replaced by
+           '"Good, good!" cried Nela, delighted. "But'
+  Page 183 "Centenc's house" replaced by "Centeno's house"
+  Page 246 "'And it cannot hurt me" replaced by '"And it cannot hurt me'
+  Page 262 "October the 12th, 186..." replaced by
+           "October the 12th, 186...."
+  Advertisement: QUINTUS CLAUDIUS 
+                 "--Grazer Morgenpost," replaced by
+                 "--Grazer Morgenpost."
+
+  Advertisement: A TALE OF AN ALPINE CLOISTER 
+                 "The Hour Will Come;" replaced by
+                 "The Hour Will Come:"
+                
+                 "they have read it through" replaced by
+                 "they have read it through."
+
+  Advertisement: AN ART LEGEND OF ANCIENT TIMES
+                 "25 cents," replaced by
+                 "25 cents."
+
+                 "WILLIAM S GOTTSBERGER" replaced by
+                 "WILLIAM S. GOTTSBERGER"
+
+  Advertisement: RANTHORPE
+                 "Bet there is" replaced by 
+                 "But there is"
+
+                 "40 cents," replaced by
+                 "40 cents."
+
+  birdlike/bird-like ("bird-like" was regularized to "birdlike",
+                 the former was used 1 time versus the later 1 times.
+                 Google Ngram suggests birdlike)
+ 
+  tramway/tram-way ("tramway" was regularized to "tram-way",
+                    the former was used 1 time versus the later 2 times.)
+
+  <i>La terrible</i>/La terrible ("<i>La terrible</i>" was regularized
+                    to "La Terrible",            
+                    the former was used 3 times versus the later 6 times.)
+
+  Carlos/Cárlos ("Carlos" was regularized to "Cárlos",
+                 the former was used 2 times versus the later 33 
+                 times.)
+
+  Maria/María ("Maria" was regularized to "María",
+               the former was used 1 time versus the later 16 times.)
+
+  Socarte/Socartes ("Socarte" was regularized to "Socartes",
+               the former was used 2 time versus the later 21 times.)
+
+Format: Use of italics, bold and small capital fonts have been regularized in the advertisement pages in the sentences:
+
+    SENT BY MAIL ON RECEIPT OF PRICE.
+    <i>Publisher</i>,
