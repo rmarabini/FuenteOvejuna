@@ -2242,7 +2242,7 @@ para alcanzada de vos?
 
 COMENDADOR
 
-Reñidla, alcalde, por Dios.
+Reñilda, alcalde, por Dios.
 
 ESTEBAN
 
@@ -3062,7 +3062,7 @@ Apelo de tu crueldad
 a la justicia divina.
 */
 
-[**P2: (]<i>Llévanla y vanse, y salen</i> <sc>Laurencia</sc> <i>y</i> <sc>Frondoso</sc>.)
+(<i>Llévanla y vanse, y salen</i> <sc>Laurencia</sc> <i>y</i> <sc>Frondoso</sc>.)
 
 /*
 LAURENCIA
@@ -3574,7 +3574,7 @@ Haríalo por reír.
 MENGO
 
 No hay risa con melecinas;
-  que aunque es cosa saludable..[**P2: ... ?]
+  que aunque es cosa saludable...
 yo me quiero morir luego.
 
 FRONDOSO
@@ -3970,7 +3970,7 @@ Que doy tan pocas es mayor espanto.
 /*
 MENGO
 
-[**F1:indent here]También vengo yo a hallarme en esta junta.
+También vengo yo a hallarme en esta junta.
 
 ESTEBAN
 
@@ -4069,7 +4069,7 @@ más cuerdo represento sus temores.
 JUAN
 
 Si nuestras desventuras se compasan,
-  para perder las vidas, ¿qué aguardamos?[**P1: guessed: aguardam***]
+  para perder las vidas, qué aguardamos
 Las casas y las viñas nos abrasan:
 tiranos son; a la venganza vamos.
 */
@@ -4277,12 +4277,12 @@ vuestro honor, acudid todas!
 */
 -----File: 118.png---\escalera2\carlosrc\bfarenaz\rpajares\ellinora\-------
 
-(<i>Salen</i> <sc>Pascuala</sc>, <sc>Jacinta</sc> <i>y otras mujeres</i>)[**P1: guessed]
+(<i>Salen</i> <sc>Pascuala</sc>, <sc>Jacinta</sc> <i>y otras mujeres</i>)
 
 /*
 PASCUALA
 
-  ¿Qué es esto? ¿De qué das voces[** missing ?]
+  ¿Qué es esto? ¿De qué das voces?
 
 LAURENCIA
 
@@ -4297,7 +4297,7 @@ sus agravios los menores?
 
 JACINTA
 
-Di, pues, ¿qué es lo que pretendes[** missing ?]
+Di, pues, ¿qué es lo que pretendes?
 
 LAURENCIA
 
@@ -4373,7 +4373,7 @@ FRONDOSO
 
 COMENDADOR
 
-Colgalde[** Colgadle] luego en la primera almena.
+Colgadle luego en la primera almena.
 
 FRONDOSO
 
@@ -4385,7 +4385,7 @@ FLORES
                     Grande ruido suena.
 */
 
-(<i>Ruido suene.</i>)[** gesspert intentional?]
+(<i>Ruido suene.</i>)
 
 /*
 COMENDADOR
@@ -4437,7 +4437,7 @@ echadas por la tierra.
 
 COMENDADOR
 
-                       Desatalde[** Dasetadle].
+                       Desatalde.
 Templa, Frondoso, ese villano alcalde.
 
 FRONDOSO
@@ -4448,7 +4448,7 @@ FRONDOSO
 (<i>Vase.</i>)
 
 /*
-MENGO (<i>Dentro.</i>)[** name smallcap compared to stage direction]
+MENGO (<i>Dentro.</i>)
 
 ¡Vivan Fernando y Isabel, y mueran
 los traidores!
@@ -4612,11 +4612,11 @@ no ha de estar tan sujeta ni envainada.
 (<i>Vase.</i>)
 
 /*
-BARRILDO [<i>Dentro.</i>][** ( ) elsewhere]
+BARRILDO [<i>Dentro.</i>]
 
 Aquí está Ortuño.
 
-FRONDOSO [<i>Dentro.</i>][** ( ) elsewhere]
+FRONDOSO [<i>Dentro.</i>]
 
                   Córtale la cara.
 */
@@ -5495,7 +5495,7 @@ Afloja un poco la mano.
 /*
 FRONDOSO
 
-  El[**Él] confiesa.
+  Él confiesa.
 
 JUEZ
 
@@ -5521,7 +5521,7 @@ JUEZ
 Del dolor se están burlando.
 En quien estaba esperando,
 niega con mayor porfía.
-  Dejaldos[** Dejadlos]; que estoy cansado.
+  Dejaldos; que estoy cansado.
 
 FRONDOSO
 

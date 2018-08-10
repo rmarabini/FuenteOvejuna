@@ -6,6 +6,17 @@ Original Images: https://archive.org/details/fuenteovejunacom00vega
 
 --------------------------------------------------------------------
 
+TODO LIST
+
+Change 
+Tu nombre, padre, eternizo[1].
+. . . . . . . . . . . . . . .[** ... ?]
+by <hr> separator
+
+
+-----------------------------
+
+
 Transcriber's Notes
 -------------------
 
@@ -43,15 +54,30 @@ publication, except as follows:
      for it
   * Page  56, "la nuez[1], que os he de apiolar" replaced by 
              "la nuez[1], que os he de apiolar."
-  * Page  67, "Reñilda" replaced by
-              "Reñidla"
+  * Page  86, "<i>Llévanla y vanse, y salen</i> <sc>Laurencia</sc> <i>y</i> <sc>Frondoso</sc>.)" replaced by
+              "(<i>Llévanla y vanse, y salen</i> <sc>Laurencia</sc> <i>y</i> <sc>Frondoso</sc>.)"
+  * Psge 117 "Acudid, por que se cobre
+              vuestro honor, acudid todas!" replaced by
+             "¡Acudid, por que se cobre
+              vuestro honor, acudid todas!"
+  * Page 120 "Colgalde luego en la..." replaced by 
+             "Colgadle luego en la..."
+  * Page 120 "(<i>R u i d o s u e n e.</i>)" replaced by
+             "(<i>Ruido suene.</i>)"
   * Page 136, "Dadle" replaced by
               "Dalde"
   * Page 139, "Amando, recelar..." replaced by
               "LAURENCIA
-
                Amando, recelar..."
+  * Page 142 "que aunque es cosa saludable.." replaced by
+             "que aunque es cosa saludable..."
+  * Page 146, "El confiesa." replaced by 
+              "Él confiesa."
+
       
+
+Nota : Usábase antiguamente y subsistía en el lenguaje de nuestros clásicos, la anteposición de la l del enclítico a la d final del imperativo, diciendo, verbigracia, miralde por miradle, tenelde por tenedle.
+
 -------------------------------------------------------------------------
 
 
