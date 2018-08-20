@@ -154,7 +154,7 @@ ACTO PRIMERO
 
   FLORES
 
-                Ya lo sabe.
+              Ya lo sabe.
 
   ORTUÑO
 
@@ -241,7 +241,7 @@ ACTO PRIMERO
 
   COMENDADOR
 
-                       Tenía
+                         Tenía
     muy justa queja de vos;
   que el amor y la crianza
   me daban más confianza,
@@ -261,7 +261,7 @@ ACTO PRIMERO
 
   COMENDADOR
 
-               Debéisme honrar;
+             Debéisme honrar;
   que he puesto por vos la vida
     entre diferencias tantas,
   hasta suplir vuestra edad
@@ -411,7 +411,7 @@ Cueva, privado del rey Enrique IV y amante de la reina.
 
   COMENDADOR
 
-                 Allí
+                Allí
   de mi encomienda escogí
   casa entre aquestas mudanzas.
     Vuestra gente se registre;
@@ -466,7 +466,7 @@ LAURENCIA
 
 PASCUALA
 
-              No.
+                  No.
 
 LAURENCIA
 
@@ -501,13 +501,13 @@ PASCUALA
 
 LAURENCIA
 
-                       Allá
+                     Allá
   en el arroyo, y habrá
   seis días.
 
 PASCUALA
 
-                Y yo sospecho
+            Y yo sospecho
   que te han de engañar, Laurencia.
 
 LAURENCIA
@@ -636,7 +636,7 @@ _Vocabulario._)
 
   FRONDOSO
 
-                  Pues lleguemos.
+                Pues lleguemos.
   Dios os guarde, hermosas damas.
 
   LAURENCIA
@@ -747,7 +747,7 @@ moscatel.
 
   LAURENCIA
 
-                Di.
+                   Di.
 
   FRONDOSO
 
@@ -776,13 +776,13 @@ moscatel.
 
   BARRILDO
 
-                       Una cosa
+                  Una cosa
   que, siendo cierta y forzosa,
   la niega.
 
   MENGO
 
-            A negarla vengo,
+           A negarla vengo,
   porque yo sé que es verdad.
 
   LAURENCIA
@@ -862,7 +862,7 @@ MENGO
 
   MENGO
 
-                Eso llama
+               Eso llama
   amor propio, y no querer.
     ¿Qué es amor?
 
@@ -873,7 +873,7 @@ MENGO
 
   MENGO
 
-                Esa hermosura
+               Esa hermosura
   ¿por qué el amor la procura?
 
   LAURENCIA
@@ -882,7 +882,7 @@ MENGO
 
   MENGO
 
-                Eso creo.
+               Eso creo.
     Pues ese gusto que intenta,
   ¿no es para él mismo?
 
@@ -901,7 +901,7 @@ MENGO
 
   MENGO
 
-               Pues de ese modo
+              Pues de ese modo
   no hay amor, sino el que digo,
   que por mi gusto le sigo,
   y quiero dármele en todo.
@@ -935,7 +935,7 @@ MENGO
 
   LAURENCIA
 
-             Mi propio honor.
+           Mi propio honor.
 
   FRONDOSO
 
@@ -947,7 +947,7 @@ MENGO
 
   PASCUALA
 
-                 Con la quistión
+                Con la quistión
   podéis ir al sacristán,
   porque él o el cura os darán
   bastante satisfación.
@@ -972,7 +972,7 @@ MENGO
 
   LAURENCIA
 
-          ¡Gentil azor!
+         ¡Gentil azor!
   ¿De adónde bueno, pariente?
 
   FLORES
@@ -1111,7 +1111,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   ESTEBAN
 
-                    Fuente Ovejuna
+                   Fuente Ovejuna
   y el regimiento[17] que hoy habéis honrado,
     que recibáis os ruega y importuna
   un pequeño presente, que esos carros
@@ -1166,7 +1166,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   ESTEBAN
 
-               Ea, cantores,
+              Ea, cantores,
   vaya otra vez la letrilla.
 
 (_Cantan._)
@@ -1209,7 +1209,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   PASCUALA
 
-                   Sí, señor;
+                  Sí, señor;
   mas no para casos tales.
 
   COMENDADOR
@@ -1230,11 +1230,11 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   FLORES
 
-            Señor...
+           Señor...
 
   COMENDADOR
 
-                     ¿Qué reparan
+                   ¿Qué reparan
     en no hacer lo que les digo?
 
   FLORES
@@ -1243,7 +1243,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   LAURENCIA
 
-               No nos agarre.
+              No nos agarre.
 
   FLORES
 
@@ -1251,7 +1251,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   PASCUALA
 
-                           Arre;
+                          Arre;
   que echaréis luego el postigo.
 
   FLORES
@@ -1274,7 +1274,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
   PASCUALA
 
-                ¡Bien a fe!
+              ¡Bien a fe!
   Desvíese, no le dé...
 
   FLORES
@@ -1599,7 +1599,7 @@ etcétera), pretendiendo curar la rabia y otros males.
 
   LAURENCIA
 
-                     ¡Cómo!
+                   ¡Cómo!
   ¿Eso hacéis? ¿Estáis en vos?
 
 (_Sale_ FRONDOSO _y toma la ballesta._)
@@ -1610,7 +1610,7 @@ etcétera), pretendiendo curar la rabia y otros males.
 
   FRONDOSO [_Aparte._]
 
-                   Si tomo
+                 Si tomo
   la ballesta, ¡vive el cielo
   que no la ponga en el hombro!
 
@@ -1620,12 +1620,12 @@ etcétera), pretendiendo curar la rabia y otros males.
 
   LAURENCIA
 
-                  ¡Cielos,
+                ¡Cielos,
   ayudadme agora!
 
   COMENDADOR
 
-                  Solos
+                 Solos
   estamos; no tengas miedo.
 
   FRONDOSO
@@ -1782,7 +1782,7 @@ para que aplicase los castigos.
 
   LEONELO
 
-                     Es larga historia.
+                            Es larga historia.
 
   BARRILDO
 
@@ -1899,7 +1899,7 @@ para que aplicase los castigos.
 
   [ESTEBAN] ALCALDE
 
-                 Vusiñoría,
+               Vusiñoría,
   adonde suele se siente,
     que en pie estaremos muy bien.
 
@@ -1961,11 +1961,11 @@ para que aplicase los castigos.
 
   COMENDADOR
 
-              Sí.
+             Sí.
 
   ESTEBAN
 
-                  Pues ¿es buena
+                Pues ¿es buena
   para alcanzada de vos?
 
   COMENDADOR
@@ -1978,7 +1978,7 @@ para que aplicase los castigos.
 
   COMENDADOR
 
-          Ha dado en darme pena.
+        Ha dado en darme pena.
     Mujer hay, y principal,
   de alguno que está en la plaza,
   que dió, a la primera traza,
@@ -2077,7 +2077,7 @@ para que aplicase los castigos.
 
   ESTEBAN
 
-                     ¿Que diga
+                   ¿Que diga
   lo que escucháis por los dos?
 
   COMENDADOR
@@ -2091,7 +2091,7 @@ para que aplicase los castigos.
 
   COMENDADOR
 
-                Pues no ansí.
+               Pues no ansí.
 
   FLORES
 
@@ -2232,8 +2232,7 @@ para que aplicase los castigos.
   ¿Cómo?
 
   ORTUÑO
-
-         Que su desposado
+       Que su desposado
     anda tras ella estos días
   celoso de mis recados,
   y de que con tus criados
@@ -2256,11 +2255,11 @@ para que aplicase los castigos.
 
   FLORES
 
-                    ¿Cuál?
+                   ¿Cuál?
 
   COMENDADOR
 
-                           La de Antón.
+                         La de Antón.
 
   FLORES
 
@@ -2378,7 +2377,7 @@ _huyendo._)
 
   Mengo, a la villa es mejor
   que vamos unas con otras
-  (pues que no hay hombre ninguno),
+    (pues que no hay hombre ninguno),
   por que no demos con él.
 
   MENGO
@@ -2403,7 +2402,7 @@ _huyendo._)
 
   MENGO
 
-             Hanme contado
+            Hanme contado
   que Frondoso, aquí en el prado,
   para librarte, Laurencia,
     le puso al pecho una jara.
@@ -2419,7 +2418,7 @@ _huyendo._)
 
   MENGO
 
-              Que del lugar
+          Que del lugar
   se vaya, será forzoso.
 
   LAURENCIA
@@ -2516,7 +2515,7 @@ _huyendo._)
 
   JACINTA
 
-             ¡Oh, si las tuvieras!
+            ¡Oh, si las tuvieras!
 
   MENGO
 
@@ -2591,7 +2590,7 @@ _huyendo._)
 
   MENGO
 
-                     ¡Señor!...
+                    ¡Señor!...
 
   COMENDADOR
 
@@ -2618,7 +2617,7 @@ _huyendo._)
 
   COMENDADOR
 
-                   No ensuciéis
+                 No ensuciéis
   las armas, que habéis de honrar
   en otro mejor lugar.
 
@@ -2635,7 +2634,7 @@ _huyendo._)
 
   MENGO
 
-                        ¡Piedad!
+                      ¡Piedad!
   ¡Piedad, pues sois hombre noble!
 
   COMENDADOR
@@ -2683,7 +2682,7 @@ _huyendo._)
 
   JACINTA
 
-                ¿Con quién?
+               ¿Con quién?
 
   COMENDADOR
 
@@ -2714,7 +2713,7 @@ _huyendo._)
 
   COMENDADOR
 
-                   No hay piedad.
+                 No hay piedad.
 
   JACINTA
 
@@ -2742,7 +2741,7 @@ _huyendo._)
 
   LAURENCIA
 
-           Tente en maldecir,
+         Tente en maldecir,
   porque suele más vivir
   al que la muerte desean.
 
@@ -2788,7 +2787,7 @@ _huyendo._)
 
   FRONDOSO
 
-               En Dios confío.
+             En Dios confío.
 
 (_Escóndese._)
 
@@ -2957,7 +2956,7 @@ _huyendo._)
 
   LAURENCIA
 
-                           Señor...
+                         Señor...
 
   ESTEBAN
 
@@ -3481,7 +3480,7 @@ CIMBRANOS.)
 
   MENGO
 
-                  Señores,
+                Señores,
   aquí todo el mundo calle.
   Como ruedas de salmón
   me puso los atabales.
@@ -3648,7 +3647,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
   ESTEBAN
 
-               ¡Santo cielo!
+              ¡Santo cielo!
   ¿No es mi hija?
 
   JUAN
@@ -3668,7 +3667,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
   LAURENCIA
 
-             No me nombres
+            No me nombres
   tu hija.
 
   ESTEBAN
@@ -3769,7 +3768,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
   BARRILDO
 
-                 Descoge
+                Descoge
   un lienzo al viento en un palo,
   y mueran estos inormes[41].
 
@@ -3798,7 +3797,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
   TODOS
 
-         ¡Vivan muchos años!
+        ¡Vivan muchos años!
 
   MENGO
 
@@ -3913,7 +3912,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   FLORES
 
-                      Grande ruido suena.
+                     Grande ruido suena.
 
 (_Ruido suene._)
 
@@ -3928,7 +3927,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   ORTUÑO
 
-                      Las puertas rompen.
+                     Las puertas rompen.
 
 (_Ruido._)
 
@@ -4023,7 +4022,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   TODOS
 
-                   Agravios nunca esperan.
+                  Agravios nunca esperan.
 
   COMENDADOR
 
@@ -4559,7 +4558,7 @@ Gómez en una lanza._)
 
   MENGO
 
-                       Es ninguna.
+                    Es ninguna.
 
   ESTEBAN
 
@@ -4755,7 +4754,7 @@ Gómez en una lanza._)
 
   LAURENCIA
 
-              ¡Qué porfía!
+             ¡Qué porfía!
 
   ESTEBAN
 
@@ -4783,7 +4782,7 @@ Gómez en una lanza._)
 
   JUEZ
 
-                  Ese muchacho
+                Ese muchacho
   aprieta. Perro, yo sé
   que lo sabes. Di quién fué.
   ¿Callas? Aprieta, borracho.
@@ -4916,7 +4915,7 @@ Gómez en una lanza._)
 
   JUEZ
 
-                  Al palo aplica
+                 Al palo aplica
   la espalda.
 
   MENGO
@@ -4991,7 +4990,7 @@ Gómez en una lanza._)
 
   BARRILDO
 
-                        ...Ya va[46].
+                          ...Ya va[46].
 
 [46] Falta el principio del verso.
 
@@ -5095,7 +5094,7 @@ hacer antes un gesto de desagrado.
 
   LAURENCIA
 
-                   Dasme espanto.
+                  Dasme espanto.
   Pues Fuente Ovejuna fué.
 
   FRONDOSO
@@ -5427,6 +5426,9 @@ Page  45,  "v a n s e" replaced by
 
 Page  56, "la nuez[1], que os he de apiolar" replaced by
           "la nuez[1], que os he de apiolar."
+
+Page  78, "(pues que no hay hombre ninguno)," replaced by
+          "  (pues que no hay hombre ninguno),"
 
 Page  86, "_Llévanla y vanse, y salen_
            LAURENCIA _y_ FRONDOSO.)" replaced by

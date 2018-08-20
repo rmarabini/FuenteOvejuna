@@ -118,3 +118,9 @@ Format: Use of italics, bold and small capital fonts have been regularized in th
 
     SENT BY MAIL ON RECEIPT OF PRICE.
     <i>Publisher</i>,
+
+
+=============================
+<span class="Cname">(.+)</span>
+<div class="Cname">$1</div>
+

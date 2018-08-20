@@ -73,91 +73,91 @@
  'Pg072' => {'offset' => '2149.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg073' => {'offset' => '2188.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg074' => {'offset' => '2227.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg075' => {'offset' => '2268.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg076' => {'offset' => '2302.21', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg077' => {'offset' => '2338.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg078' => {'offset' => '2380.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg079' => {'offset' => '2418.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg080' => {'offset' => '2456.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg081' => {'offset' => '2495.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg082' => {'offset' => '2539.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg083' => {'offset' => '2578.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg084' => {'offset' => '2617.17', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg085' => {'offset' => '2657.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg086' => {'offset' => '2698.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg087' => {'offset' => '2735.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg088' => {'offset' => '2769.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg089' => {'offset' => '2806.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg090' => {'offset' => '2845.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg091' => {'offset' => '2884.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg092' => {'offset' => '2921.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg093' => {'offset' => '2960.35', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg094' => {'offset' => '3000.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg095' => {'offset' => '3041.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg096' => {'offset' => '3081.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg097' => {'offset' => '3121.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg098' => {'offset' => '3161.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg099' => {'offset' => '3201.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg100' => {'offset' => '3234.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg101' => {'offset' => '3268.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg102' => {'offset' => '3302.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg103' => {'offset' => '3340.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg104' => {'offset' => '3378.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg105' => {'offset' => '3414.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg106' => {'offset' => '3450.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg107' => {'offset' => '3487.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg108' => {'offset' => '3493.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg109' => {'offset' => '3493.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg110' => {'offset' => '3530.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg111' => {'offset' => '3567.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg112' => {'offset' => '3605.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg113' => {'offset' => '3643.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg114' => {'offset' => '3682.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg115' => {'offset' => '3713.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg116' => {'offset' => '3744.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg117' => {'offset' => '3781.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg118' => {'offset' => '3818.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg119' => {'offset' => '3855.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg120' => {'offset' => '3899.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg121' => {'offset' => '3942.42', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg122' => {'offset' => '3985.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg123' => {'offset' => '4026.42', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg124' => {'offset' => '4070.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg125' => {'offset' => '4110.35', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg126' => {'offset' => '4154.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg127' => {'offset' => '4198.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg128' => {'offset' => '4233.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg129' => {'offset' => '4269.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg130' => {'offset' => '4300.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg131' => {'offset' => '4332.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg132' => {'offset' => '4369.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg133' => {'offset' => '4405.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg134' => {'offset' => '4445.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg135' => {'offset' => '4484.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg136' => {'offset' => '4523.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg137' => {'offset' => '4562.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg138' => {'offset' => '4602.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg139' => {'offset' => '4638.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg140' => {'offset' => '4676.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg141' => {'offset' => '4714.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg142' => {'offset' => '4749.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg143' => {'offset' => '4790.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg144' => {'offset' => '4828.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg145' => {'offset' => '4870.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg146' => {'offset' => '4911.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg147' => {'offset' => '4947.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg148' => {'offset' => '4990.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg149' => {'offset' => '5033.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg150' => {'offset' => '5076.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg151' => {'offset' => '5115.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg152' => {'offset' => '5153.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg153' => {'offset' => '5188.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg154' => {'offset' => '5225.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg155' => {'offset' => '5260.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg156' => {'offset' => '5297.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg157' => {'offset' => '5331.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg158' => {'offset' => '5364.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg159' => {'offset' => '5381.3', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg075' => {'offset' => '2267.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg076' => {'offset' => '2301.21', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg077' => {'offset' => '2337.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg078' => {'offset' => '2379.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg079' => {'offset' => '2417.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg080' => {'offset' => '2455.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg081' => {'offset' => '2494.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg082' => {'offset' => '2538.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg083' => {'offset' => '2577.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg084' => {'offset' => '2616.17', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg085' => {'offset' => '2656.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg086' => {'offset' => '2697.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg087' => {'offset' => '2734.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg088' => {'offset' => '2768.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg089' => {'offset' => '2805.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg090' => {'offset' => '2844.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg091' => {'offset' => '2883.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg092' => {'offset' => '2920.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg093' => {'offset' => '2959.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg094' => {'offset' => '2999.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg095' => {'offset' => '3040.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg096' => {'offset' => '3080.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg097' => {'offset' => '3120.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg098' => {'offset' => '3160.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg099' => {'offset' => '3200.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg100' => {'offset' => '3233.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg101' => {'offset' => '3267.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg102' => {'offset' => '3301.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg103' => {'offset' => '3339.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg104' => {'offset' => '3377.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg105' => {'offset' => '3413.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg106' => {'offset' => '3449.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg107' => {'offset' => '3486.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg108' => {'offset' => '3492.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg109' => {'offset' => '3492.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg110' => {'offset' => '3529.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg111' => {'offset' => '3566.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg112' => {'offset' => '3604.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg113' => {'offset' => '3642.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg114' => {'offset' => '3681.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg115' => {'offset' => '3712.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg116' => {'offset' => '3743.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg117' => {'offset' => '3780.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg118' => {'offset' => '3817.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg119' => {'offset' => '3854.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg120' => {'offset' => '3898.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg121' => {'offset' => '3941.42', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg122' => {'offset' => '3984.39', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg123' => {'offset' => '4025.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg124' => {'offset' => '4069.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg125' => {'offset' => '4109.35', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg126' => {'offset' => '4153.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg127' => {'offset' => '4197.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg128' => {'offset' => '4232.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg129' => {'offset' => '4268.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg130' => {'offset' => '4299.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg131' => {'offset' => '4331.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg132' => {'offset' => '4368.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg133' => {'offset' => '4404.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg134' => {'offset' => '4444.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg135' => {'offset' => '4483.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg136' => {'offset' => '4522.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg137' => {'offset' => '4561.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg138' => {'offset' => '4601.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg139' => {'offset' => '4637.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg140' => {'offset' => '4675.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg141' => {'offset' => '4713.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg142' => {'offset' => '4748.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg143' => {'offset' => '4789.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg144' => {'offset' => '4827.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg145' => {'offset' => '4869.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg146' => {'offset' => '4910.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg147' => {'offset' => '4946.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg148' => {'offset' => '4989.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg149' => {'offset' => '5032.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg150' => {'offset' => '5075.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg151' => {'offset' => '5114.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg152' => {'offset' => '5152.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg153' => {'offset' => '5187.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg154' => {'offset' => '5224.32', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg155' => {'offset' => '5259.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg156' => {'offset' => '5296.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg157' => {'offset' => '5330.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg158' => {'offset' => '5363.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg159' => {'offset' => '5380.3', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'carlosrc';
@@ -956,49 +956,50 @@ $::proofers{'159'}[3] = 'team';
 $::proofers{'159'}[4] = 'carlosrc';
 $::proofers{'159'}[5] = 'ellinora';
 
-$::operationshash{'Found no more orphaned {}'}='2018-08-07 11:40';
-$::operationshash{'Check Accents'}='2018-08-07 11:38';
-$::operationshash{'Spellcheck'}='2018-08-07 23:57';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._second'}='2018-08-08 00:09';
-$::operationshash{'Stealth Scannos'}='2018-08-08 00:55';
-$::operationshash{'Found no more orphaned /* */'}='2018-08-07 11:40';
-$::operationshash{'Check MiXeD CasE'}='2018-08-07 11:39';
-$::operationshash{'Check words with initial caps'}='2018-08-07 11:39';
-$::operationshash{'Footnote Fixup'}='2018-08-08 10:04';
-$::operationshash{'Check . lower'}='2018-08-07 11:38';
-$::operationshash{'Remove blank lines before page separators'}='2018-08-08 15:40';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna.txt'}='2018-08-05 15:32';
-$::operationshash{'Remove end-of-line spaces'}='2018-08-08 15:40';
-$::operationshash{'multilingual spelling'}='2018-08-07 23:56';
-$::operationshash{'Found no more orphaned <>'}='2018-08-07 11:40';
-$::operationshash{'Found no more orphaned /# #/'}='2018-08-07 11:40';
-$::operationshash{'Moved footnotes to end-of-paragraph'}='2018-08-08 10:06';
-$::operationshash{'WF Check Ital/Bold/SC'}='2018-08-07 11:32';
-$::operationshash{'Word Frequency'}='2018-08-07 11:18';
-$::operationshash{'Check emdashes'}='2018-08-07 11:30';
-$::operationshash{'Found no more /p..p/ blocks'}='2018-08-07 11:58';
-$::operationshash{'Check hyphens'}='2018-08-07 11:30';
-$::operationshash{'Found no more orphaned /$ $/'}='2018-08-07 11:41';
-$::operationshash{'Multilingual Spelling'}='2018-08-07 23:56';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._firsttxt'}='2018-08-07 11:03';
-$::operationshash{'Gutcheck'}='2018-08-08 15:48';
-$::operationshash{'Begin Page Separators Fixup'}='2018-08-07 11:05';
-$::operationshash{'Check ALL CAPS'}='2018-08-07 11:39';
-$::operationshash{'Footnote check passed'}='2018-08-08 10:05';
-$::operationshash{'Check alpha/num'}='2018-08-07 11:20';
-$::operationshash{'Check , Upper'}='2018-08-07 11:37';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._3.txt'}='2018-08-08 00:47';
-$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2018-08-07 11:41';
-$::operationshash{'Check spelling wordfrequency'}='2018-08-07 11:21';
-$::operationshash{'Check Character Cnts'}='2018-08-07 11:53';
-$::operationshash{'Found last page separator'}='2018-08-07 11:11';
-$::operationshash{'Found no more orphaned ()'}='2018-08-07 11:40';
-$::operationshash{'Reindex footnotes'}='2018-08-08 10:05';
-$::operationshash{'Check words with possible ligatures'}='2018-08-07 11:38';
 $::operationshash{'Check Stealthos Word Frequency'}='2018-08-07 11:38';
+$::operationshash{'Check . lower'}='2018-08-07 11:38';
+$::operationshash{'Check MiXeD CasE'}='2018-08-07 11:39';
+$::operationshash{'Begin Page Separators Fixup'}='2018-08-07 11:05';
+$::operationshash{'Found no more orphaned /$ $/'}='2018-08-07 11:41';
+$::operationshash{'Check hyphens'}='2018-08-07 11:30';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._second'}='2018-08-08 00:09';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._firsttxt'}='2018-08-07 11:03';
+$::operationshash{'Check words with possible ligatures'}='2018-08-07 11:38';
+$::operationshash{'Remove end-of-line spaces'}='2018-08-08 15:40';
+$::operationshash{'Check Character Cnts'}='2018-08-07 11:53';
+$::operationshash{'Footnote check passed'}='2018-08-08 10:05';
+$::operationshash{'Found no more orphaned /# #/'}='2018-08-07 11:40';
+$::operationshash{'Found no more orphaned {}'}='2018-08-07 11:40';
 $::operationshash{'Check words with unicode chars > FF'}='2018-08-07 11:38';
+$::operationshash{'Check Accents'}='2018-08-07 11:38';
+$::operationshash{'multilingual spelling'}='2018-08-07 23:56';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/fuenteOvejuna.txt'}='2018-08-19 23:44';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._3.txt'}='2018-08-08 00:47';
+$::operationshash{'Spellcheck'}='2018-08-07 23:57';
+$::operationshash{'Word Frequency'}='2018-08-07 11:18';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2018-08-07 11:41';
+$::operationshash{'Check ALL CAPS'}='2018-08-07 11:39';
+$::operationshash{'Footnote Fixup'}='2018-08-08 10:04';
+$::operationshash{'Found no more orphaned /* */'}='2018-08-07 11:40';
+$::operationshash{'Check alpha/num'}='2018-08-07 11:20';
+$::operationshash{'WF Check Ital/Bold/SC'}='2018-08-07 11:32';
+$::operationshash{'Moved footnotes to end-of-paragraph'}='2018-08-08 10:06';
+$::operationshash{'Found no more orphaned <>'}='2018-08-07 11:40';
+$::operationshash{'Found no more orphaned ()'}='2018-08-07 11:40';
+$::operationshash{'Remove blank lines before page separators'}='2018-08-08 15:40';
+$::operationshash{'Multilingual Spelling'}='2018-08-07 23:56';
+$::operationshash{'Stealth Scannos'}='2018-08-08 00:55';
+$::operationshash{'Gutcheck'}='2018-08-08 15:48';
+$::operationshash{'Found last page separator'}='2018-08-07 11:11';
+$::operationshash{'Check spelling wordfrequency'}='2018-08-07 11:21';
+$::operationshash{'Check emdashes'}='2018-08-07 11:30';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna.txt'}='2018-08-05 15:32';
+$::operationshash{'Reindex footnotes'}='2018-08-08 10:05';
+$::operationshash{'Found no more /p..p/ blocks'}='2018-08-07 11:58';
+$::operationshash{'Check words with initial caps'}='2018-08-07 11:39';
+$::operationshash{'Check , Upper'}='2018-08-07 11:37';
 
-$::bookmarks[0] = '5438.11';
+$::bookmarks[0] = '2380.4';
 
 $::pngspath = '/home/roberto/sda/Books/FuenteOvejuna/pngs/';
 
