@@ -152,22 +152,27 @@ ACTO PRIMERO
     ¿Sabe el maestre que estoy
   en la villa?
 
+
   FLORES
 
               Ya lo sabe.
 
+
   ORTUÑO
 
   Está, con la edad, más grave.
+
 
   COMENDADOR
 
   Y ¿sabe también que soy
     Fernán Gómez de Guzmán?
 
+
   FLORES
 
   Es muchacho, no te asombre.
+
 
   COMENDADOR
 
@@ -175,10 +180,12 @@ ACTO PRIMERO
   ¿no le sabrá el que me dan
     de comendador mayor?
 
+
   ORTUÑO
 
   No falta quien le aconseje
   que de ser cortés se aleje.
+
 
   COMENDADOR
 
@@ -188,6 +195,7 @@ ACTO PRIMERO
   y para la enemistad
   la necia descortesía.
 
+
   ORTUÑO
 
     Si supiese un descortés
@@ -196,6 +204,7 @@ ACTO PRIMERO
   poner la boca a sus pies--,
     antes que serlo ninguno,
   se dejaría morir.
+
 
   FLORES
 
@@ -209,6 +218,7 @@ ACTO PRIMERO
   que un muchacho aun no ha llegado
   a saber qué es ser amado.
 
+
   COMENDADOR
 
   La obligación de la espada
@@ -217,14 +227,17 @@ ACTO PRIMERO
   le cubrió el pecho, bastaba
   para aprender cortesía.
 
+
   FLORES
 
     Si te han puesto mal con él,
   presto le conocerás.
 
+
   ORTUÑO
 
   Vuélvete, si en duda estás.
+
 
   COMENDADOR
 
@@ -232,12 +245,14 @@ ACTO PRIMERO
 
 (_Sale el_ MAESTRE DE CALATRAVA _y acompañamiento._)
 
+
   MAESTRE
 
     Perdonad, por vida mía,
   Fernán Gómez de Guzmán;
   que agora nueva me dan
   que en la villa estáis.
+
 
   COMENDADOR
 
@@ -250,6 +265,7 @@ ACTO PRIMERO
   yo vuestro comendador
   y muy vuestro servidor.
 
+
   MAESTRE
 
   Seguro[1], Fernando, estaba
@@ -259,6 +275,7 @@ ACTO PRIMERO
 
 [1] _Seguro_, descuidado, ajeno.
 
+
   COMENDADOR
 
              Debéisme honrar;
@@ -266,6 +283,7 @@ ACTO PRIMERO
     entre diferencias tantas,
   hasta suplir vuestra edad
   el pontífice.
+
 
   MAESTRE
 
@@ -275,22 +293,27 @@ ACTO PRIMERO
   que os lo pago en estimaros,
   y como a mi padre honraros.
 
+
   COMENDADOR
 
   De vos estoy satisfecho.
 
+
   MAESTRE
 
     ¿Qué hay de guerra por allá?
+
 
   COMENDADOR
 
   Estad atento, y sabréis,
   la obligación que tenéis.
 
+
   MAESTRE
 
   Decid que ya lo estoy, ya.
+
 
   COMENDADOR
 
@@ -374,6 +397,7 @@ Cueva, privado del rey Enrique IV y amante de la reina.
 
 [4] _El original_, entrambos.
 
+
   MAESTRE
 
     Fernán Gómez, estad cierto
@@ -395,6 +419,7 @@ Cueva, privado del rey Enrique IV y amante de la reina.
     Vos, ¿adónde residís?
   ¿Tenéis algunos soldados?
 
+
   COMENDADOR
 
   Poco, pero mis criados;
@@ -405,11 +430,14 @@ Cueva, privado del rey Enrique IV y amante de la reina.
   no enseñada en escuadrones,
     sino en campos y labranzas.
 
+
   MAESTRE
 
   ¿Allí residís?
 
+
   COMENDADOR
+
 
                 Allí
   de mi encomienda escogí
@@ -417,46 +445,54 @@ Cueva, privado del rey Enrique IV y amante de la reina.
     Vuestra gente se registre;
   que no quedará vasallo.
 
-MAESTRE
+
+  MAESTRE
 
   Hoy me veréis a caballo,
   poner la lanza en el ristre.
 
 (_Vanse, y salen_ PASCUALA _y_ LAURENCIA.)
 
-LAURENCIA
+
+  LAURENCIA
 
   ¡Mas que nunca acá volviera!
 
-PASCUALA
+
+  PASCUALA
 
   Pues a la he que pensé
   que cuando te lo conté,
   más pesadumbre te diera.
 
-LAURENCIA
+
+  LAURENCIA
 
     ¡Plega al cielo que jamás
   le vea en Fuente Ovejuna!
 
-PASCUALA
+
+  PASCUALA
 
   Yo, Laurencia, he visto alguna
   tan brava, y pienso que más;
     y tenía el corazón
   brando como una manteca.
 
-LAURENCIA
+
+  LAURENCIA
 
   Pues ¿hay encina tan seca
   como esta mi condición?
 
-PASCUALA
+
+  PASCUALA
 
   Anda ya; que nadie diga:
   de esta agua no beberé.
 
-LAURENCIA
+
+  LAURENCIA
 
   ¡Voto al sol que lo diré,
   aunque el mundo me desdiga!
@@ -464,23 +500,27 @@ LAURENCIA
   querer a Fernando yo?
   ¿Casarme con él?
 
-PASCUALA
+ 
+  PASCUALA
 
                   No.
 
-LAURENCIA
+
+  LAURENCIA
 
   Luego la infamia condeno.
     ¡Cuántas mozas en la villa,
   del comendador fiadas,
   andan ya descalabradas!
 
-PASCUALA
+
+  PASCUALA
 
   Tendré yo por maravilla
     que te escapes de su mano.
 
-LAURENCIA
+
+  LAURENCIA
 
   Pues en vano es lo que ves,
   porque ha que me sigue un mes,
@@ -495,30 +535,36 @@ LAURENCIA
   mas no serán poderosas
     para contrastar mi pecho.
 
-PASCUALA
+
+  PASCUALA
 
   ¿Dónde te hablaron?
 
-LAURENCIA
+
+  LAURENCIA
 
                      Allá
   en el arroyo, y habrá
   seis días.
 
-PASCUALA
+
+  PASCUALA
 
             Y yo sospecho
   que te han de engañar, Laurencia.
 
-LAURENCIA
+ 
+  LAURENCIA
 
   ¿A mí?
 
-PASCUALA
+
+  PASCUALA
 
   Que no, sino al cura.
 
-LAURENCIA
+
+  LAURENCIA
 
   Soy, aunque polla, muy dura
   yo para su reverencia.
@@ -561,7 +607,8 @@ LAURENCIA
 
 [7] Vasija untada de pez.
 
-PASCUALA
+
+  PASCUALA
 
     Tienes, Laurencia, razón;
   que en dejando de querer,
@@ -591,9 +638,11 @@ PASCUALA
 [8] _Nombre de las pascuas_, «putas, bellacas, alcahuetas». (Correas,
 _Vocabulario._)
 
+
   LAURENCIA
 
   No fiarse de ninguno.
+
 
   PASCUALA
 
@@ -601,15 +650,18 @@ _Vocabulario._)
 
   (_Salen_ MENGO _y_ BARRILDO _y_ FRONDOSO.)
 
+
   FRONDOSO
 
   En aquesta diferencia
   andas, Barrildo, importuno.
 
+
   BARRILDO
 
     A lo menos aquí está
   quien nos dirá lo más cierto.
+
 
   MENGO
 
@@ -619,10 +671,12 @@ _Vocabulario._)
   me dé cada cual la prenda,
   precio de aquesta contienda.
 
+
   BARRILDO
 
   Desde aquí digo que sí.
     Mas si pierdes, ¿qué darás?
+
 
   MENGO
 
@@ -630,18 +684,22 @@ _Vocabulario._)
   que vale más que una troj,
   porque yo le estimo en más.
 
+
   BARRILDO
 
     Soy contento.
+
 
   FRONDOSO
 
                 Pues lleguemos.
   Dios os guarde, hermosas damas.
 
+
   LAURENCIA
 
   ¿Damas, Frondoso, nos llamas?
+
 
   FRONDOSO
 
@@ -677,6 +735,7 @@ _Vocabulario._)
 
 [9] _El original_, al gracioso, entremetido.
 
+
   LAURENCIA
 
     Allá en la ciudad, Frondoso,
@@ -686,9 +745,11 @@ _Vocabulario._)
     y peor vocabulario
   en las lenguas descorteses.
 
+
   FRONDOSO
 
   Querría que lo dijeses.
+
 
   LAURENCIA
 
@@ -721,9 +782,11 @@ moscatel.
 
 [12] _Madeja_, hombre flojo y dejado.
 
+
   MENGO
 
     Digo que eres el dimuño.
+
 
   BARRILDO
 
@@ -731,48 +794,59 @@ moscatel.
 
 [13] _Soncas_, a fe, en verdad.
 
+
   MENGO
 
   Apostaré que la sal
   la echó el cura con el puño.
+
 
   LAURENCIA
 
     ¿Qué contienda os ha traído
   si no es que mal lo entendí?
 
+
   FRONDOSO
 
   Oye, por tu vida.
+
 
   LAURENCIA
 
                    Di.
 
+
   FRONDOSO
 
   Préstame, Laurencia, oído.
+
 
   LAURENCIA
 
     Como prestado, y aun dado.
   Desde agora os doy el mío.
 
+
   FRONDOSO
 
   En tu discreción confío.
+
 
   LAURENCIA
 
   ¿Qué es lo que habéis apostado?
 
+
   FRONDOSO
 
     Yo y Barrildo contra Mengo.
 
+
   LAURENCIA
 
   ¿Qué dice Mengo?
+
 
   BARRILDO
 
@@ -780,28 +854,34 @@ moscatel.
   que, siendo cierta y forzosa,
   la niega.
 
+
   MENGO
 
            A negarla vengo,
   porque yo sé que es verdad.
 
+
   LAURENCIA
 
   ¿Qué dice?
+
 
   BARRILDO
 
             Que no hay amor.
 
+
   LAURENCIA
 
   Generalmente, es rigor.
+
 
   BARRILDO
 
   Es rigor y es necedad.
     Sin amor, no se pudiera
   ni aun el mundo conservar.
+
 
   MENGO
 
@@ -814,14 +894,16 @@ moscatel.
     cólera y melancolía,
   flema y sangre, claro está.
 
-BARRILDO
+
+  BARRILDO
 
   El mundo de acá y de allá,
   Mengo, todo es armonía.
     Armonía es puro amor,
   porque el amor es concierto.
 
-MENGO
+
+  MENGO
 
   Del natural, os advierto
   que yo no niego el valor.
@@ -841,14 +923,17 @@ MENGO
   si al ojo le viene mal,
   porque es amor natural.
 
+
   PASCUALA
 
   Pues ¿de qué nos desengañas?
+
 
   MENGO
 
     De que nadie tiene amor
   mas que a su misma persona.
+
 
   PASCUALA
 
@@ -866,19 +951,23 @@ MENGO
   amor propio, y no querer.
     ¿Qué es amor?
 
+
   LAURENCIA
 
                   Es un deseo
   de hermosura.
+
 
   MENGO
 
                Esa hermosura
   ¿por qué el amor la procura?
 
+
   LAURENCIA
 
   Para gozarla.
+
 
   MENGO
 
@@ -886,18 +975,22 @@ MENGO
     Pues ese gusto que intenta,
   ¿no es para él mismo?
 
+
   LAURENCIA
 
                         Es así.
+
 
   MENGO
 
   Luego, ¿por quererse a sí
   busca el bien que le contenta?
 
+
   LAURENCIA
 
     Es verdad.
+
 
   MENGO
 
@@ -905,6 +998,7 @@ MENGO
   no hay amor, sino el que digo,
   que por mi gusto le sigo,
   y quiero dármele en todo.
+
 
   BARRILDO
 
@@ -915,12 +1009,14 @@ MENGO
     que éste amaba el alma sola
   y la virtud de lo amado.
 
+
   PASCUALA
 
   En materia habéis entrado
   que, por ventura, acrisola
     los caletres de los sabios
   en sus academias y escuelas.
+
 
   LAURENCIA
 
@@ -929,21 +1025,26 @@ MENGO
     Da gracias, Mengo, a los cielos,
   que te hicieron sin amor.
 
+
   MENGO
 
   ¿Amas tú?
+
 
   LAURENCIA
 
            Mi propio honor.
 
+
   FRONDOSO
 
   Dios te castigue con celos.
 
+
   BARRILDO
 
     ¿Quién gana?
+
 
   PASCUALA
 
@@ -955,33 +1056,40 @@ MENGO
   yo tengo poca experiencia.
   ¿Cómo daremos sentencia?
 
+
   FRONDOSO
 
   ¿Qué mayor que ese desdén?
 
 (_Sale_ FLORES.)
 
+
   FLORES
 
     Dios guarde a la buena gente.
+
 
   PASCUALA
 
   Este es del comendador
   criado.
 
+
   LAURENCIA
 
          ¡Gentil azor!
   ¿De adónde bueno, pariente?
 
+
   FLORES
 
     ¿No me veis a lo soldado?
 
+
   LAURENCIA
 
   ¿Viene don Fernando acá?
+
 
   FLORES
 
@@ -991,9 +1099,11 @@ MENGO
 
 [15] _Puesto que_, aunque.
 
+
   FRONDOSO
 
   Contadnos cómo pasó.
+
 
   FLORES
 
@@ -1079,6 +1189,7 @@ serán buenos y leales.» (_Diccionario de Autoridades_, de 1726.)
 (_Salen el_ COMENDADOR _y_ ORTUÑO; MÚSICOS;
 JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
+
 (_Cantan._)
 
     _Sea bien venido
@@ -1098,16 +1209,19 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
   ¡Viva muchos años,
   viva Fernán Gómez!_
 
+
   COMENDADOR
 
     Villa, yo os agradezco justamente
   el amor que me habéis aquí mostrado.
+
 
   ALONSO
 
   Aun no muestra una parte del que siente.
     Pero, ¿qué mucho que seáis amado,
   mereciéndolo vos?
+
 
   ESTEBAN
 
@@ -1144,10 +1258,12 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
 [17] _Regimiento_, el concejo municipal.
 
+
   COMENDADOR
 
     Estoy muy agradecido.
   Id, regimiento, en buen hora.
+
 
   ALONSO
 
@@ -1159,15 +1275,18 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
   y mucho más merecéis,
     a ser posible a la villa.
 
+
   COMENDADOR
 
   Así lo creo, señores.
   Id con Dios.
 
+
   ESTEBAN
 
               Ea, cantores,
   vaya otra vez la letrilla.
+
 
 (_Cantan._)
 
@@ -1178,22 +1297,27 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
 (_Vanse._)
 
+
   COMENDADOR
 
     Esperad vosotras dos.
 
+
   LAURENCIA
 
   ¿Qué manda su señoría?
+
 
   COMENDADOR
 
   ¡Desdenes el otro día,
   pues, conmigo! ¡Bien por Dios!
 
+
   LAURENCIA
 
     ¿Habla contigo, Pascuala?
+
 
   PASCUALA
 
@@ -1201,21 +1325,25 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
 [18] _Tirte ahuera_, ¡anda allá!
 
+
   COMENDADOR
 
   Con vos hablo, hermosa fiera,
   y con esotra zagala.
     ¿Mías no sois?
 
+
   PASCUALA
 
                   Sí, señor;
   mas no para casos tales.
 
+
   COMENDADOR
 
   Entrad, pasad los umbrales;
   hombres hay, no hayáis temor.
+
 
   LAURENCIA
 
@@ -1224,71 +1352,87 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
   bien huera entrar; mas si no...
 
 
+
   COMENDADOR
 
   Flores...
 
+
   FLORES
 
            Señor...
+
 
   COMENDADOR
 
                    ¿Qué reparan
     en no hacer lo que les digo?
 
+
   FLORES
 
   Entra, pues.
+
 
   LAURENCIA
 
               No nos agarre.
 
+
   FLORES
 
   Entrad; que sois necias.
+
 
   PASCUALA
 
                           Arre;
   que echaréis luego el postigo.
 
+
   FLORES
 
     Entrad; que os quiere enseñar
   lo que trae de la guerra.
 
+
   COMENDADOR [_Aparte a_ ORTUÑO.]
 
   Si entraron. Ortuño, cierra.
 
+
   LAURENCIA
 
   Flores, dejadnos pasar.
+
 
   ORTUÑO
 
     ¿También venís presentadas
   con lo demás?
 
+
   PASCUALA
 
               ¡Bien a fe!
   Desvíese, no le dé...
 
+
   FLORES
 
   Basta; que son extremadas.
+
 
   LAURENCIA
 
     ¿No basta a vueso señor
   tanta carne presentada?
 
+
   ORTUÑO
 
   La vuestra es la que le agrada.
+
 
   LAURENCIA
 
@@ -1296,12 +1440,14 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
 (_Vanse._)
 
+
   FLORES
 
     ¡Muy buen recado llevamos!
   No se ha de poder sufrir
   lo que nos ha de decir
   cuando sin ellas nos vamos.
+
 
   ORTUÑO
 
@@ -1312,6 +1458,7 @@ JUAN ROJO _y_ ESTEBAN, ALONSO, _alcaldes._)
 
 (_Vanse los dos y salgan el_ REY DON FERNANDO, _la_ REINA
 DOÑA ISABEL, MANRIQUE _y acompañamiento._)
+
 
   ISABEL
 
@@ -1324,6 +1471,7 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   que si no lo remediamos,
   el ser muy cierto está llano.
 
+
   REY
 
     De Navarra y de Aragón
@@ -1333,10 +1481,12 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
     de modo, que el buen suceso
   con la prevención se vea.
 
+
   ISABEL
 
   Pues vuestra majestad crea
   que el buen fin consiste en esto.
+
 
   MANRIQUE
 
@@ -1344,11 +1494,13 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   dos regidores están
   de Ciudad Real: ¿entrarán?
 
+
   REY
 
   No les nieguen mi presencia.
 
 (_Salen dos_ REGIDORES _de Ciudad Real._)
+
 
   REGIDOR 1.º
 
@@ -1385,9 +1537,11 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   suyos, a nuestro pesar,
   a no remediarlo presto.
 
+
   REY
 
   ¿Dónde queda Fernán Gómez?
+
 
   REGIDOR 1.º
 
@@ -1399,15 +1553,18 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   tiene a los súbditos suyos
   de todo contento ajenos.
 
+
   REY
 
   ¿Tenéis algún capitán?
+
 
   REGIDOR 2.°
 
   Señor, el no haberle es cierto,
   pues no escapó ningún noble
   de preso, herido o de muerto.
+
 
   ISABEL
 
@@ -1419,6 +1576,7 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   hallando puerta segura,
   entrar por Extremadura
   y causamos mucho mal.
+
 
   REY
 
@@ -1433,6 +1591,7 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
     que éste es el medio mejor
   que la ocasión nos ofrece.
 
+
   MANRIQUE
 
   El acuerdo me parece
@@ -1440,12 +1599,14 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
     Pondré límite a su exceso,
   si el vivir en mí no cesa.
 
+
   ISABEL
 
   Partiendo vos a la empresa,
   seguro está el buen suceso.
 
 (_Vanse todos y salen_ LAURENCIA _y_ FRONDOSO.)
+
 
   LAURENCIA
 
@@ -1480,6 +1641,7 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
 
 [19] Instrumento de música, llamado también _bajón_.
 
+
   FRONDOSO
 
   Tal me tienen tus desdenes,
@@ -1490,9 +1652,11 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   el desear ser tu esposo,
   mal premio das a mi fe.
 
+
   LAURENCIA
 
   Es que yo no sé dar otro.
+
 
   FRONDOSO
 
@@ -1504,12 +1668,14 @@ DOÑA ISABEL, MANRIQUE _y acompañamiento._)
   en ese angélico rostro?
   ¡Viven los cielos que rabio!
 
+
   LAURENCIA
 
   Pues salúdate[20], Frondoso.
 
 [20] _Saludar_, usar de ciertas fórmulas (hacer cruces con saliva,
 etcétera), pretendiendo curar la rabia y otros males.
+
 
   FRONDOSO
 
@@ -1519,20 +1685,24 @@ etcétera), pretendiendo curar la rabia y otros males.
   con arrullos sonorosos,
   después de damos la Iglesia...
 
+
   LAURENCIA
 
   Dilo a mi tío Juan Rojo;
   que aunque no te quiero bien,
   ya tengo algunos asomos.
 
+
   FRONDOSO
 
   ¡Ay de mí! El señor es éste.
+
 
   LAURENCIA
 
   Tirando viene a algún corzo.
   Escóndete en esas ramas.
+
 
   FRONDOSO
 
@@ -1540,11 +1710,13 @@ etcétera), pretendiendo curar la rabia y otros males.
 
 (_Sale el_ COMENDADOR.)
 
+
   COMENDADOR
 
     No es malo venir siguiendo
   un corcillo temeroso,
   y topar tan bella gama.
+
 
   LAURENCIA
 
@@ -1552,6 +1724,7 @@ etcétera), pretendiendo curar la rabia y otros males.
   de haber lavado unos paños;
   y así, al arroyo me tomo,
   si manda su señoría.
+
 
   COMENDADOR
 
@@ -1575,6 +1748,7 @@ etcétera), pretendiendo curar la rabia y otros males.
   habiendo apenas pasado
   dos días del desposorio?
 
+
   LAURENCIA
 
   Esas, señor, ya tenían,
@@ -1587,6 +1761,7 @@ etcétera), pretendiendo curar la rabia y otros males.
   os tuviera por demonio,
   pues tanto me perseguís.
 
+
   COMENDADOR
 
   ¡Qué estilo tan enfadoso!
@@ -1597,12 +1772,14 @@ etcétera), pretendiendo curar la rabia y otros males.
 
 [21] Falta un verso para el romance, pero no para el sentido.
 
+
   LAURENCIA
 
                    ¡Cómo!
   ¿Eso hacéis? ¿Estáis en vos?
 
 (_Sale_ FRONDOSO _y toma la ballesta._)
+
 
   COMENDADOR
 
@@ -1614,19 +1791,23 @@ etcétera), pretendiendo curar la rabia y otros males.
   la ballesta, ¡vive el cielo
   que no la ponga en el hombro!
 
+
   COMENDADOR
 
   Acaba, ríndete.
+
 
   LAURENCIA
 
                 ¡Cielos,
   ayudadme agora!
 
+
   COMENDADOR
 
                  Solos
   estamos; no tengas miedo.
+
 
   FRONDOSO
 
@@ -1636,25 +1817,30 @@ etcétera), pretendiendo curar la rabia y otros males.
   será blanco vuestro pecho,
   aunque la cruz me da asombro.
 
+
   COMENDADOR
 
   ¡Perro, villano!...
+
 
   FRONDOSO
 
                       No hay perro.
   Huye, Laurencia.
 
+
   LAURENCIA
 
                    Frondoso,
   mira lo que haces.
+
 
   FRONDOSO
 
                      Vete.
 
 (_Vase._)
+
 
   COMENDADOR
 
@@ -1663,6 +1849,7 @@ etcétera), pretendiendo curar la rabia y otros males.
   Que, de no espantar medroso
   la caza, me la quité.
 
+
   FRONDOSO
 
   Pues, pardiez, señor, si toco
@@ -1670,11 +1857,13 @@ etcétera), pretendiendo curar la rabia y otros males.
 
 [22] Botón con que se disparaba la ballesta.
 
+
   COMENDADOR
 
   Ya es ida. Infame, alevoso,
   suelta la ballesta luego.
   Suéltala, villano.
+
 
   FRONDOSO
 
@@ -1684,6 +1873,7 @@ etcétera), pretendiendo curar la rabia y otros males.
   y que no escucha palabras
   el día que está en su trono.
 
+
   COMENDADOR
 
   Pues ¿la espa[l]da ha de volver
@@ -1692,12 +1882,14 @@ etcétera), pretendiendo curar la rabia y otros males.
   tira, y guárdate; que rompo
   las leyes de caballero.
 
+
   FRONDOSO
 
   Eso no. Yo me conformo
   con mi estado, y pues me es
   guardar la vida forzoso,
   con la ballesta me voy.
+
 
   COMENDADOR
 
@@ -1721,6 +1913,7 @@ ACTO SEGUNDO DE FUENTE OVEJUNA
 
 (_Salen_ ESTEBAN _y_ REGIDOR 1.°)
 
+
   ESTEBAN
 
     Así tenga salud, como parece,
@@ -1733,6 +1926,7 @@ ACTO SEGUNDO DE FUENTE OVEJUNA
 
   Yo siempre he sido, al fin, de este propósito,
   en gobernar en paz esta república.
+
 
   ESTEBAN
 
@@ -1768,6 +1962,7 @@ ACTO SEGUNDO DE FUENTE OVEJUNA
 
 (_Salen el licenciado_ LEONELO _y_ BARRILDO.)
 
+
   LEONELO
 
     A fe que no ganéis la palmatoria[25],
@@ -1776,17 +1971,21 @@ ACTO SEGUNDO DE FUENTE OVEJUNA
 [25] Al muchacho que llegaba primero a la escuela le daban la palmeta
 para que aplicase los castigos.
 
+
   BARRILDO
 
   ¿Cómo os fué en Salamanca?
+
 
   LEONELO
 
                             Es larga historia.
 
+
   BARRILDO
 
   Un Bártulo seréis.
+
 
   LEONELO
 
@@ -1794,18 +1993,22 @@ para que aplicase los castigos.
   Es, como digo, cosa muy notoria
   en esta facultad lo que os refiero.
 
+
   BARRILDO
 
   Sin duda que venís buen estudiante.
+
 
   LEONELO
 
   Saber he procurado lo importante.
 
+
   BARRILDO
 
     Después que vemos tanto libro impreso,
   no hay nadie que de sabio no presuma.
+
 
   LEONELO
 
@@ -1834,18 +2037,22 @@ para que aplicase los castigos.
 
 [26] _El original_, del.
 
+
   BARRILDO
 
     No soy de esa opinión.
+
 
   LEONELO
 
                            El ignorante
   es justo que se vengue del letrado.
 
+
   BARRILDO
 
   Leonelo, la impresión es importante.
+
 
   LEONELO
 
@@ -1856,11 +2063,13 @@ para que aplicase los castigos.
 
 [27] Falta un verso para la octava.
 
+
   BARRILDO
 
   Dejadlo y asentaos, que estáis mohino.
 
 (_Salen_ JUAN ROJO _y otro labrador._)
+
 
   JUAN ROJO
 
@@ -1869,13 +2078,16 @@ para que aplicase los castigos.
   que el hombre que es curioso es bien que note
   que en esto el barrio y vulgo anda confuso.
 
+
   LABRADOR
 
   ¿Qué hay del comendador? No os alborote.
 
+
   JUAN ROJO
 
   ¡Cuál a Laurencia en ese campo puso!
+
 
   LABRADOR
 
@@ -1884,18 +2096,22 @@ para que aplicase los castigos.
 
 (_Salen el_ COMENDADOR, ORTUÑO _y_ FLORES.)
 
+
   COMENDADOR
 
     Dios guarde la buena gente.
+
 
   REGIDOR
 
   ¡Oh, señor!
 
+
   COMENDADOR
 
               Por vida mía,
   que se estén.
+
 
   [ESTEBAN] ALCALDE
 
@@ -1903,9 +2119,11 @@ para que aplicase los castigos.
   adonde suele se siente,
     que en pie estaremos muy bien.
 
+
   COMENDADOR
 
   Digo que se han de sentar.
+
 
   ESTEBAN
 
@@ -1913,19 +2131,23 @@ para que aplicase los castigos.
   que no es posible que den
     honra los que no la tienen.
 
+
   COMENDADOR
 
   Siéntense; hablaremos algo.
 
+
   ESTEBAN
 
   ¿Vió vusiñoría el galgo?
+
 
   COMENDADOR
 
   Alcalde, espantados vienen
     esos criados de ver
   tan notable ligereza.
+
 
   ESTEBAN
 
@@ -1938,6 +2160,7 @@ para que aplicase los castigos.
 
 [29] _Quistión_, cuestión, tormento.
 
+
   COMENDADOR
 
   Quisiera en esta ocasión
@@ -1947,34 +2170,42 @@ para que aplicase los castigos.
 
 [30] _Hacer pariente_, juntar, reunir.
 
+
   ESTEBAN
 
   Sí haré, par Dios. ¿Dónde está?
+
 
   COMENDADOR
 
   Allá vuestra hija es.
 
+
   ESTEBAN
 
     ¡Mi hija!
 
+
   COMENDADOR
 
              Sí.
+
 
   ESTEBAN
 
                 Pues ¿es buena
   para alcanzada de vos?
 
+
   COMENDADOR
 
   Reñilda, alcalde, por Dios.
 
+
   ESTEBAN
 
   ¿Cómo?
+
 
   COMENDADOR
 
@@ -1984,11 +2215,13 @@ para que aplicase los castigos.
   que dió, a la primera traza,
   traza de verme.
 
+
   ESTEBAN
 
                   Hizo mal;
     y vos, señor, no andáis bien
   en hablar tan libremente.
+
 
   COMENDADOR
 
@@ -1996,6 +2229,7 @@ para que aplicase los castigos.
   ¡Ah, Flores!, haz que le den
     la _Política_, en que lea
   de Aristóteles.
+
 
   ESTEBAN
 
@@ -2005,14 +2239,17 @@ para que aplicase los castigos.
     Mirad que en Fuente Ovejuna
   hay gente muy principal.
 
+
   LEONELO
 
   ¿Vióse desvergüenza igual?
+
 
   COMENDADOR
 
   Pues ¿he dicho cosa alguna
     de que os pese, regidor?
+
 
   REGIDOR
 
@@ -2020,10 +2257,12 @@ para que aplicase los castigos.
   no lo digáis, que no es justo
   que nos quitéis el honor.
 
+
   COMENDADOR
 
     ¿Vosotros honor tenéis?
   ¡Qué freiles de Calatrava!
+
 
   REGIDOR
 
@@ -2031,20 +2270,24 @@ para que aplicase los castigos.
   de la cruz que le ponéis,
     que no es de sangre tan limpia.
 
+
   COMENDADOR
 
   Y ¿ensucióla yo juntando
   la mía a la vuestra?
+
 
   REGIDOR
 
                        Cuando
   que el mal más tiñe que alimpia.
 
+
   COMENDADOR
 
     De cualquier suerte que sea,
   vuestras mujeres se honran.
+
 
   ESTEBAN
 
@@ -2055,6 +2298,7 @@ para que aplicase los castigos.
 
 [32] _El original_, obras.
 
+
   COMENDADOR
 
     ¡Qué cansado villanaje!
@@ -2064,6 +2308,7 @@ para que aplicase los castigos.
     allá se precian casados
   que visiten sus mujeres.
 
+
   ESTEBAN
 
   No harán; que con esto quieres
@@ -2071,40 +2316,49 @@ para que aplicase los castigos.
     En las ciudades hay Dios,
   y más presto quien castiga.
 
+
   COMENDADOR
 
   Levantaos de aquí.
+
 
   ESTEBAN
 
                    ¿Que diga
   lo que escucháis por los dos?
 
+
   COMENDADOR
 
     Salí de la plaza luego;
   no quede ninguno aquí.
 
+
   ESTEBAN
 
   Ya nos vamos.
+
 
   COMENDADOR
 
                Pues no ansí.
 
+
   FLORES
 
   Que te reportes te ruego.
+
 
   COMENDADOR
 
     Querrían hacer corrillo
   los villanos en mi ausencia.
 
+
   ORTUÑO
 
   Ten un poco de paciencia.
+
 
   COMENDADOR
 
@@ -2112,9 +2366,11 @@ para que aplicase los castigos.
     Cada uno de por sí
   se vayan hasta sus casas.
 
+
   LEONELO
 
   ¡Cielo! ¿Que por esto pasas?
+
 
   ESTEBAN
 
@@ -2122,9 +2378,11 @@ para que aplicase los castigos.
 
 (_Vanse._)
 
+
   COMENDADOR
 
     ¿Qué os parece de esta gente?
+
 
   ORTUÑO
 
@@ -2134,18 +2392,22 @@ para que aplicase los castigos.
 
 [33] _El original_, quieren.
 
+
   COMENDADOR
 
     Estos ¿se igualan conmigo?
+
 
   FLORES
 
   Que no es aqueso igualarse.
 
+
   COMENDADOR
 
   Y el villano ¿ha de quedarse
   con ballesta y sin castigo?
+
 
   FLORES
 
@@ -2156,24 +2418,29 @@ para que aplicase los castigos.
     de oreja a oreja le di
   un beneficio famoso.
 
+
   COMENDADOR
 
   ¿Dónde estará aquel Frondoso?
 
+
   FLORES
 
   Dicen que anda por ahí.
+
 
   COMENDADOR
 
     ¡Por ahí se atreve a andar
   hombre que matarme quiso!
 
+
   FLORES
 
   Como el ave sin aviso,
   o como el pez, viene a dar
     al reclamo o al anzuelo.
+
 
   COMENDADOR
 
@@ -2183,14 +2450,17 @@ para que aplicase los castigos.
     ponga una ballesta al pecho!
   El mundo se acaba, Flores.
 
+
   FLORES
 
   Como eso pueden amores.
+
 
   ORTUÑO
 
   Y pues que vive, sospecho
     que grande amistad le debes.
+
 
   COMENDADOR
 
@@ -2203,33 +2473,40 @@ para que aplicase los castigos.
   hago la venganza estar.--
     ¿Qué hay de Pascuala?
 
+
   FLORES
 
                           Responde
   que anda agora por casarse.
 
+
   COMENDADOR
 
   ¿Hasta allá quiere fiarse?...
+
 
   FLORES
 
   En fin, te remite donde
     te pagarán de contado.
 
+
   COMENDADOR
 
   ¿Qué hay de Olalla?
+
 
   ORTUÑO
 
                       Una graciosa
   respuesta.
 
+
   COMENDADOR
 
            Es moza briosa.
   ¿Cómo?
+
 
   ORTUÑO
        Que su desposado
@@ -2240,26 +2517,32 @@ para que aplicase los castigos.
     pero que si se descuida,
   entrarás como primero.
 
+
   COMENDADOR
 
   ¡Bueno, a fe de caballero!
   Pero el villanejo cuida...
 
+
   ORTUÑO
 
     Cuida, y anda por los aires.
+
 
   COMENDADOR
 
   ¿Qué hay de Inés?
 
+
   FLORES
 
                    ¿Cuál?
 
+
   COMENDADOR
 
                          La de Antón.
+
 
   FLORES
 
@@ -2269,12 +2552,14 @@ para que aplicase los castigos.
     Háblela por el corral,
   por donde has de entrar si quieres.
 
+
   COMENDADOR
 
   A las fáciles mujeres
   quiero bien y pago mal.
     Si éstas supiesen, ¡oh, Flores!,
   estimarse en lo que valen...
+
 
   FLORES
 
@@ -2289,6 +2574,7 @@ para que aplicase los castigos.
   la materia; y que esto sea
   así, no hay de que te asombre.
 
+
   COMENDADOR
 
     Un hombre de amores loco
@@ -2302,13 +2588,16 @@ para que aplicase los castigos.
 
 (_Sale_ CIMBRANOS, _soldado._)
 
+
   [CIMBRANOS], SOLDADO
 
     ¿Está aquí el comendador?
 
+
   ORTUÑO
 
   ¿No le ves en tu presencia?
+
 
   [CIMBRANOS], SOLDADO
 
@@ -2336,6 +2625,7 @@ para que aplicase los castigos.
   que sólo con que te vean,
   se volverán a Castilla.
 
+
   COMENDADOR
 
   No prosigas; tente, espera.--
@@ -2343,18 +2633,22 @@ para que aplicase los castigos.
   toquen luego una trompeta.
   ¿Qué soldados tengo aquí?
 
+
   ORTUÑO
 
   Pienso que tienes cincuenta.
+
 
   COMENDADOR
 
   Pónganse a caballo todos.
 
+
   [CIMBRANOS], SOLDADO
 
   Si no caminas apriesa,
   Ciudad Real es del rey.
+
 
   COMENDADOR
 
@@ -2365,13 +2659,16 @@ para que aplicase los castigos.
 (_Salen_ MENGO _y_ LAURENCIA _y_ PASCUALA,
 _huyendo._)
 
+
   PASCUALA
 
     No te apartes de nosotras.
 
+
   MENGO
 
   Pues ¿a qué tenéis temor?
+
 
   LAURENCIA
 
@@ -2380,19 +2677,23 @@ _huyendo._)
     (pues que no hay hombre ninguno),
   por que no demos con él.
 
+
   MENGO
 
   ¡Que este demonio cruel
   nos sea tan importuno!
 
+
   LAURENCIA
 
     No nos deja a sol ni a sombra.
+
 
   MENGO
 
   ¡Oh! Rayo del cielo baje,
   que sus locuras ataje.
+
 
   LAURENCIA
 
@@ -2400,12 +2701,14 @@ _huyendo._)
     arsénico y pestilencia
   del lugar.
 
+
   MENGO
 
             Hanme contado
   que Frondoso, aquí en el prado,
   para librarte, Laurencia,
     le puso al pecho una jara.
+
 
   LAURENCIA
 
@@ -2416,10 +2719,12 @@ _huyendo._)
   Pienso que le ha de costar
   la vida.
 
+
   MENGO
 
           Que del lugar
   se vaya, será forzoso.
+
 
   LAURENCIA
 
@@ -2430,9 +2735,11 @@ _huyendo._)
     y jura el comendador
   que le ha de colgar de un pie.
 
+
   PASCUALA
 
   ¡Mal garrotillo le dé!
+
 
   MENGO
 
@@ -2444,10 +2751,12 @@ _huyendo._)
     No fué Sábalo, el romano,
   tan vicioso por jamás.
 
+
   LAURENCIA
 
   Heliogábalo dirás,
   más que una fiera inhumano.
+
 
   MENGO
 
@@ -2458,6 +2767,7 @@ _huyendo._)
     ¿Hay hombre en naturaleza
   como Fernán Gómez?
 
+
   PASCUALA
 
                      No;
@@ -2466,18 +2776,22 @@ _huyendo._)
 
 (_Sale_ JACINTA.)
 
+
   JACINTA
 
     Dadme socorro, por Dios,
   si la amistad os obliga.
 
+
   LAURENCIA
 
   ¿Qué es esto, Jacinta amiga?
 
+
   PASCUALA
 
   Tuyas lo somos las dos.
+
 
   JACINTA
 
@@ -2487,16 +2801,19 @@ _huyendo._)
   que de noble acero armados,
     me quieren llevar a él.
 
+
   LAURENCIA
 
   Pues Jacinta, Dios te libre;
   que cuando contigo es libre,
   conmigo será cruel.         (_Vase._)
 
+
   PASCUALA
 
     Jacinta, yo no soy hombre
   que te puedo defender.      (_Vase._)
+
 
   MENGO
 
@@ -2504,18 +2821,22 @@ _huyendo._)
   porque tengo el ser y el nombre.
     Llégate, Jacinta, a mí.
 
+
   JACINTA
 
   ¿Tienes armas?
+
 
   MENGO
 
                  Las primeras
   del mundo.
 
+
   JACINTA
 
             ¡Oh, si las tuvieras!
+
 
   MENGO
 
@@ -2523,23 +2844,28 @@ _huyendo._)
 
 (_Salen_ FLORES _y_ ORTUÑO.)
 
+
   FLORES
 
     ¿Por los pies pensabas irte?
 
+
   JACINTA
 
   Mengo, ¡muerta soy!
+
 
   MENGO
 
                       Señores...
   ¡A estos pobres labradores!...
 
+
   ORTUÑO
 
   Pues ¿tú quieres persuadirte
     a defender la mujer?
+
 
   MENGO
 
@@ -2547,9 +2873,11 @@ _huyendo._)
   que soy su deudo y pretendo
   guardalla, si puede ser.
 
+
   FLORES
 
     Quitalde luego la vida.
+
 
   MENGO
 
@@ -2559,10 +2887,12 @@ _huyendo._)
 
 (_Salen el_ COMENDADOR _y_ CIMBRANOS.)
 
+
   COMENDADOR
 
     ¿Qué es eso? ¡A cosas tan viles
   me habéis de hacer apear!
+
 
   FLORES
 
@@ -2570,6 +2900,7 @@ _huyendo._)
   (que ya es razón que aniquiles,
     pues en nada te da gusto)
   a nuestras armas se atreve.
+
 
   MENGO
 
@@ -2582,38 +2913,46 @@ _huyendo._)
     y dadme licencia a mí
   que se la pueda llevar.
 
+
   COMENDADOR
 
   Licencia les quiero dar...
   para vengarse de ti.
     Suelta la honda.
 
+
   MENGO
 
                     ¡Señor!...
+
 
   COMENDADOR
 
   Flores, Ortuño, Cimbranos,
   con ella le atad las manos.
 
+
   MENGO
 
   ¿Así volvéis por su honor?
+
 
   COMENDADOR
 
     ¿Qué piensan Fuente Ovejuna
   y sus villanos de mí?
 
+
   MENGO
 
   Señor, ¿en qué os ofendí,
   ni el pueblo en cosa ninguna?
 
+
   FLORES
 
     ¿Ha de morir?
+
 
   COMENDADOR
 
@@ -2621,9 +2960,11 @@ _huyendo._)
   las armas, que habéis de honrar
   en otro mejor lugar.
 
+
   ORTUÑO
 
   ¿Qué mandas?
+
 
   COMENDADOR
 
@@ -2632,15 +2973,18 @@ _huyendo._)
   le atad y le desnudad,
   y con las riendas...
 
+
   MENGO
 
                       ¡Piedad!
   ¡Piedad, pues sois hombre noble!
 
+
   COMENDADOR
 
     Azotalde hasta que salten
   los hierros de las correas.
+
 
   MENGO
 
@@ -2649,11 +2993,13 @@ _huyendo._)
 
 (_Vanse._)
 
+
   COMENDADOR
 
     Tú, villana, ¿por qué huyes?
   ¿Es mejor un labrador
   que un hombre de mi valor?
+
 
   JACINTA
 
@@ -2661,9 +3007,11 @@ _huyendo._)
     el honor que me han quitado
   en llevarme para ti!
 
+
   COMENDADOR
 
   ¿En quererte llevar?
+
 
   JACINTA
 
@@ -2673,6 +3021,7 @@ _huyendo._)
   no te iguala, en las costumbres
   te vence.
 
+
   COMENDADOR
 
             Las pesadumbres
@@ -2680,17 +3029,21 @@ _huyendo._)
     no tiemplan bien un airado.
   Tira por ahí.
 
+
   JACINTA
 
                ¿Con quién?
+
 
   COMENDADOR
 
   Conmigo.
 
+
   JACINTA
 
            Míralo bien.
+
 
   COMENDADOR
 
@@ -2698,22 +3051,27 @@ _huyendo._)
     Ya no mía, del bagaje
   del ejército has de ser.
 
+
   JACINTA
 
   No tiene el mundo poder
   para hacerme, viva, ultraje.
 
+
   COMENDADOR
 
     Ea, villana, camina.
+
 
   JACINTA
 
   ¡Piedad, señor!
 
+
   COMENDADOR
 
                  No hay piedad.
+
 
   JACINTA
 
@@ -2722,10 +3080,12 @@ _huyendo._)
 
 (_Llévanla y vanse, y salen_ LAURENCIA _y_ FRONDOSO.)
 
+
   LAURENCIA
 
     ¿Cómo así a venir te atreves,
   sin temer tu daño?
+
 
   FRONDOSO
 
@@ -2739,11 +3099,13 @@ _huyendo._)
     Vaya donde no le vean
   volver.
 
+
   LAURENCIA
 
          Tente en maldecir,
   porque suele más vivir
   al que la muerte desean.
+
 
   FRONDOSO
 
@@ -2762,10 +3124,12 @@ _huyendo._)
     Los desdeñosos extremos
   deja, y responde no o sí.
 
+
   LAURENCIA
 
   Pues a la villa y a ti
   respondo que lo seremos.
+
 
   FRONDOSO
 
@@ -2773,6 +3137,7 @@ _huyendo._)
   por la merced recibida,
   pues el cobrar nueva vida
   por ella es bien que confiese.
+
 
   LAURENCIA
 
@@ -2784,6 +3149,7 @@ _huyendo._)
   y fía que ha de tener
   ser, Frondoso, tu mujer,
   buen suceso.
+
 
   FRONDOSO
 
@@ -2804,6 +3170,7 @@ _huyendo._)
   la pobre Jacinta es quien
   pierde por su sinrazón.
 
+
   REGIDOR
 
     Ya [a] los Católicos Reyes,
@@ -2821,6 +3188,7 @@ _huyendo._)
 
   Luego a Mengo le azotó.
 
+
   REGIDOR
 
   No hay negra bayeta o tinta
@@ -2833,6 +3201,7 @@ _huyendo._)
   y el mal nombre que le dan.
     Yo ¿para qué traigo aquí
   este palo sin provecho?
+
 
   REGIDOR
 
@@ -2848,14 +3217,17 @@ _huyendo._)
     después de sus insolencias,
   a sus criados la dió?
 
+
   REGIDOR
 
   Aquí hay gente: ¿quién es?
+
 
   FRONDOSO
 
                              Yo,
   que espero vuestras licencias.
+
 
   REGIDOR
 
@@ -2866,6 +3238,7 @@ _huyendo._)
     Hete criado, y te quiero
   como a hijo.
 
+
   FRONDOSO
 
                Pues señor,
@@ -2873,18 +3246,22 @@ _huyendo._)
   de ti una merced espero.
     Ya sabes de quién soy hijo.
 
+
   ESTEBAN
 
   ¿Hate agraviado ese loco
   de Fernán Gómez?
 
+
   FRONDOSO
 
                    No poco.
 
+
   ESTEBAN
 
   El corazón me lo dijo.
+
 
   FRONDOSO
 
@@ -2896,6 +3273,7 @@ _huyendo._)
   mi lengua se ha adelantado;
   que he sido en decirlo osado,
   como otro lo ha de decir.
+
 
   ESTEBAN
 
@@ -2914,6 +3292,7 @@ _huyendo._)
     que yo dichoso me hallo
   en que aqueso llegue a ser.
 
+
   REGIDOR
 
   De la moza el parecer
@@ -2930,33 +3309,40 @@ _huyendo._)
   que por bien os pienso dar
   algunos maravedís.
 
+
   FRONDOSO
 
     Yo dote no he menester;
   de eso no hay que entristeceros
+
 
   REGIDOR
 
   Pues que no la pide en cueros
   lo podéis agradecer.
 
+
   ESTEBAN
 
     Tomaré el parecer de ella;
   si os parece, será bien.
+
 
   FRONDOSO
 
   Justo es; que no hace bien
   quien los gustos atropella.
 
+
   ESTEBAN
 
     ¡Hija! ¡Laurencia!...
 
+
   LAURENCIA
 
                          Señor...
+
 
   ESTEBAN
 
@@ -2970,18 +3356,22 @@ _huyendo._)
     que es un honrado zagal,
   si le hay en Fuente Ovejuna...
 
+
   LAURENCIA
 
   ¿Gila se casa?
+
 
   ESTEBAN
 
                  Y si alguna
   le merece y es su igual.
 
+
   LAURENCIA
 
     Yo digo, señor, que sí.
+
 
   ESTEBAN
 
@@ -2989,14 +3379,17 @@ _huyendo._)
   y que harto mejor se emplea
   Frondoso, Laurencia, en ti.
 
+
   LAURENCIA
 
     ¿Aun no se te han olvidado
   los donaires con la edad?
 
+
   ESTEBAN
 
   ¿Quiéresle tú?
+
 
   LAURENCIA
 
@@ -3004,13 +3397,16 @@ _huyendo._)
   le he tenido y le he cobrado,
     pero por lo que tú sabes...
 
+
   ESTEBAN
 
   ¿Quieres tú que diga sí?
 
+
   LAURENCIA
 
   Dilo tú, señor, por mí.
+
 
   ESTEBAN
 
@@ -3018,9 +3414,11 @@ _huyendo._)
     hecho está.--Ven, buscaremos
   a mi compadre en la plaza.
 
+
   REGIDOR
 
   Vamos.
+
 
   ESTEBAN
 
@@ -3029,10 +3427,12 @@ _huyendo._)
     Que yo bien te puedo dar
   cuatro mil maravedís.
 
+
   FRONDOSO
 
   Señor, ¿eso me decís?
   Mi honor queréis agraviar.
+
 
   ESTEBAN
 
@@ -3043,9 +3443,11 @@ _huyendo._)
 
 (_Vanse, y quedan_ FRONDOSO _y_ LAURENCIA.)
 
+
   LAURENCIA
 
     Di, Frondoso, ¿estás contento?
+
 
   FRONDOSO
 
@@ -3062,18 +3464,22 @@ _huyendo._)
 (_Salen el_ MAESTRE, _el_ COMENDADOR, FLORES
 _y_ ORTUÑO.)
 
+
   COMENDADOR
 
     Huye, señor, que no hay otro remedio.
+
 
   MAESTRE
 
   La flaqueza del muro lo ha causado,
   y el poderoso ejército enemigo.
 
+
   COMENDADOR
 
   Sangre les cuesta y infinitas vidas.
+
 
   MAESTRE
 
@@ -3081,9 +3487,11 @@ _y_ ORTUÑO.)
   pondrán nuestro pendón de Calatrava,
   que a honrar su empresa y los demás bastaba.
 
+
   COMENDADOR
 
   Tus desinios, Girón, quedan perdidos.
+
 
   MAESTRE
 
@@ -3094,20 +3502,24 @@ _y_ ORTUÑO.)
 
   ¡Vitoria por los reyes de Castilla!
 
+
   MAESTRE
 
   Ya coronan de luces las almenas,
   y las ventanas de las torres altas
   entoldan con pendones vitoriosos.
 
+
   COMENDADOR
 
   Bien pudieran, de sangre que les cuesta.
   A fe que es más tragedia que no fiesta.
 
+
   MAESTRE
 
   Yo vuelvo a Calatrava, Fernán Gómez.
+
 
   COMENDADOR
 
@@ -3115,13 +3527,16 @@ _y_ ORTUÑO.)
   o seguir esta parte de tus deudos,
   o reducir la tuya al Rey Católico.
 
+
   MAESTRE
 
   Yo te diré por cartas lo que intento.
 
+
   COMENDADOR
 
   El tiempo ha de enseñarte.
+
 
   MAESTRE
 
@@ -3138,20 +3553,24 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
   los desposados!
   ¡Vivan muchos años!_
 
+
   MENGO
 
     A fe, que no os ha costado
   mucho trabajo el cantar.
+
 
   BARRILDO
 
   Supiéraslo tú trovar
   mejor que él está trovado.
 
+
   FRONDOSO
 
     Mejor entiende de azotes
   Mengo que de versos ya.
+
 
   MENGO
 
@@ -3159,11 +3578,13 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
   para que no te alborotes,
     a quien el comendador...
 
+
   BARRILDO
 
   No lo digas, por tu vida;
   que este bárbaro homicida
   a todos quita el honor.
+
 
   MENGO
 
@@ -3182,9 +3603,11 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
 [35] _Melecina_, lavativa.
 
+
   BARRILDO
 
   Haríalo por reír.
+
 
   MENGO
 
@@ -3192,10 +3615,12 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
     que aunque es cosa saludable...
   yo me quiero morir luego.
 
+
   FRONDOSO
 
   Vaya la copla, te ruego,
   si es la copla razonable.
+
 
   MENGO
 
@@ -3214,9 +3639,11 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
 [36] _El original_, Mengo.
 
+
   BARRILDO
 
   Fué muy presto...
+
 
   MENGO
 
@@ -3245,10 +3672,12 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
 [37] _Seta_, secta.
 
+
   BARRILDO
 
     Déjate ya de locuras;
   deja los novios hablar.
+
 
   LAURENCIA
 
@@ -3260,11 +3689,13 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
     Pídela a tu padre luego
   para ti y para Frondoso.
 
+
   ESTEBAN
 
   Rojo, a ella y a su esposo
   que se la dé el cielo ruego,
     con su larga bendición.
+
 
   FRONDOSO
 
@@ -3305,6 +3736,7 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 (_Salen el_ COMENDADOR, FLORES, ORTUÑO _y_
 CIMBRANOS.)
 
+
   COMENDADOR
 
     Estése la boda queda,
@@ -3318,29 +3750,36 @@ CIMBRANOS.)
   con tu belicoso alarde?
   ¿Venciste? Mas ¿qué pregunto?
 
+
   FRONDOSO
 
   ¡Muerto soy! ¡Cielos, libradme!
+
 
   LAURENCIA
 
   Huye por aquí, Frondoso.
 
+
   COMENDADOR
 
   Eso no; prendelde, atalde.
+
 
   JUAN [ROJO]
 
   Date, muchacho, a prisión.
 
+
   FRONDOSO
 
   Pues ¿quieres tú que me maten?
 
+
   JUAN [ROJO]
 
   ¿Por qué?
+
 
   COMENDADOR
 
@@ -3353,19 +3792,23 @@ CIMBRANOS.)
   donde la culpa que tiene
   sentencie su mismo padre.
 
+
   PASCUALA
 
   Señor, mirad que se casa.
+
 
   COMENDADOR
 
   ¿Qué me obliga a que se case?
   ¿No hay otra gente en el pueblo?
 
+
   PASCUALA
 
   Si os ofendió perdonadle,
   por ser vos quien sois.
+
 
   COMENDADOR
 
@@ -3383,6 +3826,7 @@ CIMBRANOS.)
   (¡qué vasallos tan leales!)
   puso una ballesta al pecho.
 
+
   ESTEBAN
 
   Supuesto que el disculparle
@@ -3394,18 +3838,22 @@ CIMBRANOS.)
   su propia mujer quitarle,
   ¿qué mucho que la defienda?
 
+
   COMENDADOR
 
   Majadero sois, alcalde.
+
 
   ESTEBAN
 
   Por vuestra virtud, señor.
 
+
   COMENDADOR
 
   Nunca yo quise quitarle
   su mujer, pues no lo era.
+
 
   ESTEBAN
 
@@ -3422,31 +3870,38 @@ CIMBRANOS.)
   que para pechos reales
   es esa insignia y no más.
 
+
   COMENDADOR
 
   ¡Hola! La vara quitalde.
 
+
   ESTEBAN
 
   Tomad, señor, norabuena.
+
 
   COMENDADOR
 
   Pues con ella quiero dalle,
   como a caballo brioso.
 
+
   ESTEBAN
 
   Por señor os sufro. Dadme.
+
 
   PASCUALA
 
   ¡A un viejo de palos das!
 
+
   LAURENCIA
 
   Si le das porque es mi padre,
   ¿qué vengas en él de mí?
+
 
   COMENDADOR
 
@@ -3455,17 +3910,21 @@ CIMBRANOS.)
 
 (_Vase él y los suyos._)
 
+
   ESTEBAN
 
   Justicia del cielo baje.      (_Vase._)
+
 
   PASCUALA
 
   Volvióse en luto la boda.      (_Vase._)
 
+
   BARRILDO
 
   ¿No hay aquí un hombre que hable?
+
 
   MENGO
 
@@ -3477,6 +3936,7 @@ CIMBRANOS.)
   JUAN [ROJO]
 
   Hablemos todos.
+
 
   MENGO
 
@@ -3499,21 +3959,26 @@ ACTO TERCERO DE FUENTE OVEJUNA
 
 (_Salen_ ESTEBAN, ALONSO _y_ BARRILDO.)
 
+
   ESTEBAN
 
     ¿No han venido a la junta?
+
 
   BARRILDO
 
                                No han venido.
 
+
   ESTEBAN
 
   Pues más apriesa nuestro daño corre.
 
+
   BARRILDO
 
   Ya está lo más del pueblo prevenido.
+
 
   ESTEBAN
 
@@ -3523,10 +3988,12 @@ ACTO TERCERO DE FUENTE OVEJUNA
 
 (_Salen_ JUAN ROJO _y el_ REGIDOR.)
 
+
   JUAN
 
     ¿De qué dais voces, cuando importa tanto
   a nuestro bien, Esteban, el secreto?
+
 
   ESTEBAN
 
@@ -3534,9 +4001,11 @@ ACTO TERCERO DE FUENTE OVEJUNA
 
 (_Sale_ MENGO.)
 
+
   MENGO
 
   También vengo yo a hallarme en esta junta.
+
 
   ESTEBAN
 
@@ -3555,6 +4024,7 @@ ACTO TERCERO DE FUENTE OVEJUNA
 
 [38] _Obsequias_, funerales.
 
+
   JUAN
 
   La mayor que en el mundo fué sufrida.
@@ -3563,6 +4033,7 @@ ACTO TERCERO DE FUENTE OVEJUNA
   y su venida a Córdoba se apresta,
   vayan dos regidores a la villa,
     y echándose a sus pies pidan remedio.
+
 
   BARRILDO
 
@@ -3574,19 +4045,23 @@ ACTO TERCERO DE FUENTE OVEJUNA
 [39] La frase está construída como si hubiese escrito el autor: «En
 tanto que Fernando humilla a tantos enemigos.»
 
+
   REGIDOR
 
   Si mi voto de vos fuera escuchado,
     desamparar la villa doy por voto.
 
+
   JUAN
 
   ¿Cómo es posible en tiempo limitado?
+
 
   MENGO
 
   A la fe, que si entiendo el alboroto,
     que ha de costar la junta alguna vida.
+
 
   REGIDOR
 
@@ -3598,18 +4073,22 @@ tanto que Fernando humilla a tantos enemigos.»
     la vara quiebran tan injustamente.
   ¿Qué esclavo se trató con más bajeza?
 
+
   JUAN
 
   ¿Qué es lo que quieres tú que el pueblo intente?
+
 
   REGIDOR
 
     Morir, o dar la muerte a los tiranos,
   pues somos muchos, y ellos poca gente.
 
+
   BARRILDO
 
   ¡Contra el señor las armas en las manos!
+
 
   ESTEBAN
 
@@ -3617,6 +4096,7 @@ tanto que Fernando humilla a tantos enemigos.»
   y no bárbaros hombres inhumanos.
   Si Dios ayuda nuestro justo celo,
     ¿qué nos ha de costar?
+
 
   MENGO
 
@@ -3628,6 +4108,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
 [40] Aunque.
 
+
   JUAN
 
   Si nuestras desventuras se compasan,
@@ -3637,6 +4118,7 @@ tanto que Fernando humilla a tantos enemigos.»
 
 (_Sale_ LAURENCIA, _desmelenada._)
 
+
   LAURENCIA
 
     Dejadme entrar, que bien puedo
@@ -3645,15 +4127,18 @@ tanto que Fernando humilla a tantos enemigos.»
   si no a dar voto a dar voces.
   ¿Conocéisme?
 
+
   ESTEBAN
 
               ¡Santo cielo!
   ¿No es mi hija?
 
+
   JUAN
 
                   ¿No conoces
   A Laurencia?
+
 
   LAURENCIA
 
@@ -3661,19 +4146,23 @@ tanto que Fernando humilla a tantos enemigos.»
   que mi diferencia os pone
   en contingencia quién soy.
 
+
   ESTEBAN
 
   ¡Hija mía!
+
 
   LAURENCIA
 
             No me nombres
   tu hija.
 
+
   ESTEBAN
 
            ¿Por qué, mis ojos?
   ¿Por qué?
+
 
   LAURENCIA
 
@@ -3749,6 +4238,7 @@ tanto que Fernando humilla a tantos enemigos.»
   aquel siglo de amazonas,
   eterno espanto del orbe.
 
+
   ESTEBAN
 
   Yo, hija, no soy de aquellos
@@ -3757,14 +4247,17 @@ tanto que Fernando humilla a tantos enemigos.»
   Iré solo, si se pone
   todo el mundo contra mí.
 
+
   JUAN
 
   Y yo, por más que me asombre
   la grandeza del contrario.
 
+
   REGIDOR
 
   Muramos todos.
+
 
   BARRILDO
 
@@ -3774,9 +4267,11 @@ tanto que Fernando humilla a tantos enemigos.»
 
 [41] _Inorme_, forma anticuada de «enorme».
 
+
   JUAN
 
   ¿Qué orden pensáis tener?
+
 
   MENGO
 
@@ -3785,29 +4280,35 @@ tanto que Fernando humilla a tantos enemigos.»
   que todos están conformes
   en que los tiranos mueran.
 
+
   ESTEBAN
 
   Tomad espadas, lanzones,
   ballestas, chuzos y palos.
+
 
   MENGO
 
   ¡Los reyes nuestros señores
   vivan!
 
+
   TODOS
 
         ¡Vivan muchos años!
 
+
   MENGO
 
   ¡Mueran tiranos traidores!
+
 
   TODOS
 
   ¡Traidores tiranos mueran!
 
 (_Vanse todos._)
+
 
   LAURENCIA
 
@@ -3818,9 +4319,11 @@ tanto que Fernando humilla a tantos enemigos.»
 
 (_Salen_ PASCUALA, JACINTA _y otras mujeres_)
 
+
   PASCUALA
 
     ¿Qué es esto? ¿De qué das voces?
+
 
   LAURENCIA
 
@@ -3833,9 +4336,11 @@ tanto que Fernando humilla a tantos enemigos.»
   pues no son de las mujeres
   sus agravios los menores?
 
+
   JACINTA
 
   Di, pues, ¿qué es lo que pretendes?
+
 
   LAURENCIA
 
@@ -3848,19 +4353,23 @@ tanto que Fernando humilla a tantos enemigos.»
 
 [42] _Cabo_, el jefe.
 
+
   JACINTA
 
   No son los tuyos menores.
 
+
   LAURENCIA
 
   Pascuala, alférez serás.
+
 
   PASCUALA
 
   Pues déjame que enarbole
   en un asta la bandera:
   verás si merezco el nombre.
+
 
   LAURENCIA
 
@@ -3869,17 +4378,21 @@ tanto que Fernando humilla a tantos enemigos.»
   bien nos basta que llevemos
   nuestras tocas por pendones.
 
+
   PASCUALA
 
   Nombremos un capitán.
+
 
   LAURENCIA
 
   Eso no.
 
+
   PASCUALA
 
           ¿Por qué?
+
 
   LAURENCIA
 
@@ -3892,23 +4405,28 @@ tanto que Fernando humilla a tantos enemigos.»
 (_Sale_ FRONDOSO, _atadas las manos_; FLORES,
 ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
+
   COMENDADOR
 
     De ese cordel que de las manos sobra
   quiero que le colguéis, por mayor pena.
 
+
   FRONDOSO
 
   ¡Qué nombre, gran señor, tu sangre cobra!
+
 
   COMENDADOR
 
   Colgadle luego en la primera almena.
 
+
   FRONDOSO
 
   Nunca fué mi intención poner por obra
   tu muerte entonces.
+
 
   FLORES
 
@@ -3916,14 +4434,17 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Ruido suene._)
 
+
   COMENDADOR
 
   ¿Ruido?
+
 
   FLORES
 
           Y de manera que interrumpen
   tu justicia, señor.
+
 
   ORTUÑO
 
@@ -3931,26 +4452,32 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Ruido._)
 
+
   COMENDADOR
 
     ¡La puerta de mi casa, y siendo casa
   de la encomienda!
 
+
   FLORES
 
                     El pueblo junto viene.
+
 
   JUAN (_Dentro._)
 
   Rompe, derriba, hunde, quema, abrasa.
 
+
   ORTUÑO
 
   Un popular motín mal se detiene.
 
+
   COMENDADOR
 
   ¡El pueblo contra mí!
+
 
   FLORES
 
@@ -3958,10 +4485,12 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
   tan adelante, que las puertas tiene
   echadas por la tierra.
 
+
   COMENDADOR
 
                          Desatalde.
   Templa, Frondoso, ese villano alcalde.
+
 
   FRONDOSO
 
@@ -3974,10 +4503,12 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
   ¡Vivan Fernando y Isabel, y mueran
   los traidores!
 
+
   FLORES
 
                  Señor, por Dios te pido
   que no te hallen aquí.
+
 
   COMENDADOR
 
@@ -3985,11 +4516,13 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
   este aposento es fuerte y defendido.
   Ellos se volverán.
 
+
   FLORES
 
                      Cuando se alteran
   los pueblos agraviados, y resuelven,
   nunca sin sangre o sin venganza vuelven.
+
 
   COMENDADOR
 
@@ -4000,14 +4533,17 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   ¡Viva Fuente Ovejuna!
 
+
   COMENDADOR
 
                        ¡Qué caudillo!
   Estoy porque a su furia acometamos.
 
+
   FLORES
 
   De la tuya, señor, me maravillo.
+
 
   ESTEBAN
 
@@ -4016,37 +4552,45 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Salen todos._)
 
+
   COMENDADOR
 
   Pueblo, esperad.
 
+
   TODOS
 
                   Agravios nunca esperan.
+
 
   COMENDADOR
 
     Decídmelos a mí, que iré pagando
   a fe de caballero esos errores.
 
+
   TODOS
 
   ¡Fuente Ovejuna! ¡Viva el rey Fernando!
   ¡Mueran malos cristianos y traidores!
+
 
   COMENDADOR
 
   ¿No me queréis oír? Yo estoy hablando;
   yo soy vuestro señor.
 
+
   TODOS
 
                         Nuestros señores
   son los Reyes Católicos.
 
+
   COMENDADOR
 
                            Espera.
+
 
   TODOS
 
@@ -4054,19 +4598,23 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Vanse, y salen las mujeres armadas._)
 
+
   LAURENCIA
 
     Parad en este puesto de esperanzas
   soldados atrevidos, no mujeres.
+
 
   PASCUALA
 
   ¿Lo[s] que mujeres son en las venganzas,
   en él beban su sangre es bien que esperes?
 
+
   JACINTA
 
   Su cuerpo recojamos en las lanzas.
+
 
   PASCUALA
 
@@ -4075,6 +4623,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
   ESTEBAN (_Dentro._)
 
   ¡Muere, traidor comendador!
+
 
   COMENDADOR
 
@@ -4085,6 +4634,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
     Aquí está Flores.
 
+
   MENGO
 
                       Dale a ese bellaco;
@@ -4094,9 +4644,11 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   No me vengo si el alma no le saco.
 
+
   LAURENCIA
 
   No excusamos entrar.
+
 
   PASCUALA
 
@@ -4107,6 +4659,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
                              No me aplaco.
   ¡Con lágrimas agora, marquesotes!
+
 
   LAURENCIA
 
@@ -4125,56 +4678,69 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Sale_ FLORES _huyendo_, _y_ MENGO _tras él._)
 
+
   FLORES
 
   ¡Mengo, piedad!, que no soy yo el culpado.
+
 
   MENGO
 
   Cuando ser alcahuete no bastara,
   bastaba haberme el pícaro azotado.
 
+
   PASCUALA
 
   Dánoslo a las mujeres, Mengo, para...
   Acaba por tu vida.
+
 
   MENGO
 
                      Ya está dado;
   que no le quiero yo mayor castigo.
 
+
   PASCUALA
 
   Vengaré tus azotes.
+
 
   MENGO
 
                       Eso digo.
 
+
   JACINTA
 
     ¡Ea, muera el traidor!
+
 
   FLORES
 
                            ¡Entre mujeres!
 
+
   JACINTA
 
   ¿No le viene muy ancho?
+
 
   PASCUALA
 
                           ¿Aqueso lloras?
 
+
   JACINTA
 
   Muere, concertador de sus placeres.
 
+
   PASCUALA
 
   ¡Ea, muera el traidor!
+
 
   FLORES
 
@@ -4182,9 +4748,11 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Sale_ ORTUÑO _huyendo de_ LAURENCIA.)
 
+
   ORTUÑO
 
   Mira que no soy yo...
+
 
   LAURENCIA
 
@@ -4192,9 +4760,11 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
   Entrad, teñid las armas vencedoras
   en estos viles.
 
+
   PASCUALA
 
                   Moriré matando.
+
 
   TODAS
 
@@ -4202,6 +4772,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Vanse, y salen el_ REY DON FERNANDO _y la_ REINA DOÑA
 ISABEL, _y_ DON MANRIQUE, _maestre._)
+
 
   MANRIQUE
 
@@ -4217,6 +4788,7 @@ ISABEL, _y_ DON MANRIQUE, _maestre._)
   en conservación del puesto,
   por si volviere dispuesto
   a él el contrario osado.
+
 
   REY
 
@@ -4250,9 +4822,11 @@ FLORES
   desde donde nace el sol
   hasta donde se oscurece.
 
+
   REY
 
   Repórtate.
+
 
   FLORES
 
@@ -4315,6 +4889,7 @@ FLORES
   mira que su sangre a voces
   pide que tu rigor prueben.
 
+
   REY
 
   Estar puedes confiado
@@ -4341,9 +4916,11 @@ Gómez en una lanza._)
   Isabel y Fernando,
   y mueran los tiranos!_
 
+
   BARRILDO
 
     Diga su copla Frondoso.
+
 
   FRONDOSO
 
@@ -4358,19 +4935,23 @@ Gómez en una lanza._)
   ¡Vivan muchos años,
   y mueran los tiranos!»
 
+
   LAURENCIA
 
     Diga Barrildo.
+
 
   BARRILDO
 
                    Ya va;
   que a fe que la he pensado.
 
+
   PASCUALA
 
   Si la dices con cuidado,
   buena y rebuena será.
+
 
   BARRILDO
 
@@ -4386,22 +4967,27 @@ Gómez en una lanza._)
 
   _¡Muchos años vivan!_, etc.
 
+
   LAURENCIA
 
     Diga Mengo.
+
 
   FRONDOSO
 
                 Mengo diga.
 
+
   MENGO
 
   Yo soy poeta donado.
+
 
   PASCUALA
 
   Mejor dirás lastimado
   el envés de la barriga.
+
 
   MENGO
 
@@ -4417,9 +5003,11 @@ Gómez en una lanza._)
 
     _¡Vivan muchos años!_
 
+
   ESTEBAN
 
     Quita la cabeza allá.
+
 
   MENGO
 
@@ -4427,34 +5015,42 @@ Gómez en una lanza._)
 
 (_Saca un escudo_ JUAN ROJO _con las armas [reales]_)
 
+
   REGIDOR
 
   Ya las armas han llegado.
+
 
   ESTEBAN
 
   Mostrá las armas acá.
 
+
   JUAN
 
     ¿Adónde se han de poner?
+
 
   REGIDOR
 
   Aquí, en el ayuntamiento.
 
+
   ESTEBAN
 
   ¡Bravo escudo!
+
 
   BARRILDO
 
                  ¡Qué contento!
 
+
   FRONDOSO
 
   Ya comienza a amanecer,
     con este sol, nuestro día.
+
 
   ESTEBAN
 
@@ -4472,9 +5068,11 @@ Gómez en una lanza._)
     Concertaos todos a una
   en lo que habéis de decir.
 
+
   FRONDOSO
 
   ¿Qué es tu consejo?
+
 
   ESTEBAN
 
@@ -4482,18 +5080,22 @@ Gómez en una lanza._)
   diciendo _Fuente Ovejuna_,
     y a nadie saquen de aquí.
 
+
   FRONDOSO
 
   Es el camino derecho.
   Fuente Ovejuna lo ha hecho.
 
+
   ESTEBAN
 
   ¿Queréis responder así?
 
+
   TODOS
 
     Sí.
+
 
   ESTEBAN
 
@@ -4506,59 +5108,73 @@ Gómez en una lanza._)
 
 [43] _El original_, agora.
 
+
   MENGO
 
                   ¿No hallaste
   otro más flaco?
+
 
   ESTEBAN
 
                    ¿Pensaste
   que era de veras?
 
+
   MENGO
 
   Di presto.
+
 
   ESTEBAN
 
     ¿Quién mató al comendador?
 
+
   MENGO
 
   Fuente Ovejuna lo hizo.
+
 
   ESTEBAN
 
   Perro, ¿si te martirizo?
 
+
   MENGO
 
   Aunque me matéis, señor.
+
 
   ESTEBAN
 
     Confiesa, ladrón.
 
+
   MENGO
 
                       Confieso.
+
 
   ESTEBAN
 
   Pues ¿quién fué?
 
+
   MENGO
 
                     Fuente Ovejuna.
+
 
   ESTEBAN
 
   Dadle otra vuelta.
 
+
   MENGO
 
                     Es ninguna.
+
 
   ESTEBAN
 
@@ -4566,35 +5182,43 @@ Gómez en una lanza._)
 
 (_Sale el_ REGIDOR.)
 
+
   REGIDOR
 
     ¿Qué hacéis de esta suerte aquí?
+
 
   FRONDOSO
 
   ¿Qué ha sucedido, Cuadrado?
 
+
   REGIDOR
 
   Pesquisidor ha llegado.
+
 
   ESTEBAN
 
   Echá todos por ahí.
 
+
   REGIDOR
 
     Con él viene un capitán.
+
 
   ESTEBAN
 
   Venga el diablo: ya sabéis
   lo que responder tenéis.
 
+
   REGIDOR
 
   El pueblo prendiendo van,
     sin dejar alma ninguna.
+
 
   ESTEBAN
 
@@ -4602,11 +5226,13 @@ Gómez en una lanza._)
   ¿Quién mató al comendador,
   Mengo?
 
+
   MENGO
 
          ¿Quién? Fuente Ovejuna.
 
 (_Vanse, y salen el_ MAESTRE _y_ UN SOLDADO.)
+
 
   MAESTRE
 
@@ -4615,10 +5241,12 @@ Gómez en una lanza._)
   Estoy por darte la muerte
   por la nueva que has traído.
 
+
   SOLDADO
 
     Yo, señor, soy mensajero,
   y enojarte no es mi intento.
+
 
   MAESTRE
 
@@ -4629,6 +5257,7 @@ Gómez en una lanza._)
   en ella no ha de quedar
   ni aun memoria de los hombres.
 
+
   SOLDADO
 
     Señor, tu enojo reporta;
@@ -4636,15 +5265,18 @@ Gómez en una lanza._)
   y no tener enojado
   al rey es lo que te importa.
 
+
   MAESTRE
 
     ¿Cómo al rey se pueden dar,
   si de la encomienda son?
 
+
   SOLDADO
 
   Con él sobre esa razón
   podrás luego pleitear.
+
 
   MAESTRE
 
@@ -4669,6 +5301,7 @@ Gómez en una lanza._)
 
 (_Vanse; sale_ LAURENCIA _sola._)
 
+
   LAURENCIA
 
     Amando, recelar daño en lo amado,
@@ -4688,29 +5321,35 @@ Gómez en una lanza._)
 
 (_Sale_ FRONDOSO.)
 
+
   FRONDOSO
 
     ¡Mi Laurencia!
+
 
   LAURENCIA
 
                    ¡Esposo amado!
   ¿Cómo a estar aquí te atreves?
 
+
   FRONDOSO
 
   ¿Esas resistencias debes
   a mi amoroso cuidado?
+
 
   LAURENCIA
 
     Mi bien, procura guardarte,
   porque tu daño recelo.
 
+
   FRONDOSO
 
   No quiera, Laurencia, el cielo
   que tal llegue a disgustarte.
+
 
   LAURENCIA
 
@@ -4720,6 +5359,7 @@ Gómez en una lanza._)
   aqueste pesquisidor?
     Procura guardar la vida.
   Huye, tu daño no esperes.
+
 
   FRONDOSO
 
@@ -4743,31 +5383,38 @@ Gómez en una lanza._)
 
 (_Dice dentro el_ JUEZ, _y responden._)
 
+
   JUEZ
 
     Decid la verdad, buen viejo.
+
 
   FRONDOSO
 
   Un viejo, Laurencia mía,
   atormentan.
 
+
   LAURENCIA
 
              ¡Qué porfía!
 
+
   ESTEBAN
 
   Déjenme un poco.
+
 
   JUEZ
 
                    Ya os dejo.
     Decid, ¿quién mató a Fernando?
 
+
   ESTEBAN
 
   Fuente Ovejuna lo hizo.
+
 
   LAURENCIA
 
@@ -4776,9 +5423,11 @@ Gómez en una lanza._)
 
 [45] Falta un verso para la redondilla, pero no para el sentido.
 
+
   FRONDOSO
 
     ¡Bravo caso!
+
 
   JUEZ
 
@@ -4787,9 +5436,11 @@ Gómez en una lanza._)
   que lo sabes. Di quién fué.
   ¿Callas? Aprieta, borracho.
 
+
   NIÑO
 
     Fuente Ovejuna, señor.
+
 
   JUEZ
 
@@ -4797,18 +5448,22 @@ Gómez en una lanza._)
   que os ahorque con mis manos!
   ¿Quién mató al comendador?
 
+
   FRONDOSO
 
     ¡Que a un niño le den tormento
   y niegue de aquesta suerte!
 
+
   LAURENCIA
 
   ¡Bravo pueblo!
 
+
   FRONDOSO
 
                  Bravo y fuerte.
+
 
   JUEZ
 
@@ -4816,9 +5471,11 @@ Gómez en una lanza._)
     en ese potro tened.
   Dale esa mancuerda luego.
 
+
   LAURENCIA
 
   Ya está de cólera ciego.
+
 
   JUEZ
 
@@ -4826,110 +5483,136 @@ Gómez en una lanza._)
     en este potro, villanos.
   ¿Quién mató al comendador?
 
+
   PASCUALA
 
   Fuente Ovejuna, señor.
+
 
   JUEZ
 
   ¡Dale!
 
+
   FRONDOSO
 
          Pensamientos vanos.
+
 
   LAURENCIA
 
     Pascuala niega, Frondoso.
 
+
   FRONDOSO
 
   Niegan niños: ¿qué te espantas?
+
 
   JUEZ
 
   Parece que los encantas.
   ¡Aprieta!
 
+
   PASCUALA
 
             ¡Ay cielo piadoso!
+
 
   JUEZ
 
     ¡Aprieta, infame! ¿Estás sordo?
 
+
   PASCUALA
 
   Fuente Ovejuna lo hizo.
+
 
   JUEZ
 
   Traedme aquél más rollizo;
   ese desnudo, ese gordo.
 
+
   LAURENCIA
 
     ¡Pobre Mengo! El es sin duda.
+
 
   FRONDOSO
 
   Temo que ha de confesar.
 
+
   MENGO
 
   ¡Ay, ay!
+
 
   JUEZ
 
            Comienza a apretar.
 
+
   MENGO
 
   ¡Ay!
+
 
   JUEZ
 
        ¿Es menester ayuda?
 
+
   MENGO
 
     ¡Ay, ay!
+
 
   JUEZ
 
              ¿Quién mató, villano,
   al señor comendador?
 
+
   MENGO
 
   ¡Ay, yo lo diré, señor!
+
 
   JUEZ
 
   Afloja un poco la mano.
 
+
   FRONDOSO
 
     El confiesa.
+
 
   JUEZ
 
                  Al palo aplica
   la espalda.
 
+
   MENGO
 
               Quedo; que yo
   lo diré.
 
+
   JUEZ
 
            ¿Quién lo mató?
 
+
   MENGO
 
   Señor, Fuente Ovejunica.
+
 
   JUEZ
 
@@ -4939,6 +5622,7 @@ Gómez en una lanza._)
   niega con mayor porfía.
     Dejaldos; que estoy cansado.
 
+
   FRONDOSO
 
   ¡Oh, Mengo, bien te haga Dios!
@@ -4947,46 +5631,57 @@ Gómez en una lanza._)
 
 (_Salen con_ MENGO, BARRILDO _y el_ REGIDOR.)
 
+
   BARRILDO
 
     ¡Vítor, Mengo!
+
 
   REGIDOR
 
                    Y con razón.
 
+
   BARRILDO
 
   ¡Mengo, vítor!
+
 
   FRONDOSO
 
                  Eso digo.
 
+
   MENGO
 
   ¡Ay, ay!
+
 
   BARRILDO
 
            Toma, bebe, amigo.
   Come.
 
+
   MENGO
 
         ¡Ay, ay! ¿Qué es?
+
 
   BARRILDO
 
                           Diacitrón.
 
+
   MENGO
 
     ¡Ay, ay!
 
+
   FRONDOSO
 
              Echa de beber.
+
 
   BARRILDO
 
@@ -4994,68 +5689,84 @@ Gómez en una lanza._)
 
 [46] Falta el principio del verso.
 
+
   FRONDOSO
 
   Bien lo cuela. Bueno está.
+
 
   LAURENCIA
 
   Dale otra vez a comer.
 
+
   MENGO
 
     ¡Ay, ay!
+
 
   BARRILDO
 
              Esta va por mí.
 
+
   LAURENCIA
 
   Solemnemente lo embebe.
+
 
   FRONDOSO
 
   El que bien niega bien bebe.
 
+
   REGIDOR
 
   ¿Quieres otra?
+
 
   MENGO
 
                  ¡Ay, ay! Sí, sí.
 
+
   FRONDOSO
 
     Bebe, que bien lo mereces.
+
 
   LAURENCIA
 
   A vez por vuelta las cuela.
 
+
   FRONDOSO
 
   Arrópale, que se hiela.
 
+
   BARRILDO
 
   ¿Quieres más?
+
 
   MENGO
 
                 Sí, otras tres veces.
     ¡Ay, ay!
 
+
   FRONDOSO
 
              Si hay vino pregunta.
+
 
   BARRILDO
 
   Sí hay: bebe a tu placer;
   que quien niega ha de beber.
   ¿Qué tiene?
+
 
   MENGO
 
@@ -5065,6 +5776,7 @@ Gómez en una lanza._)
 [47] _Punta_, sabor agrio del vino. Mengo ha debido
 hacer antes un gesto de desagrado.
 
+
   FRONDOSO
 
   Que [beba][48], que éste es mejor.
@@ -5072,11 +5784,13 @@ hacer antes un gesto de desagrado.
 
 [48] _El original_, lea.
 
+
   MENGO
 
   Fuente Ovejunica lo hizo.
 
 (_Vanse._)
+
 
   FRONDOSO
 
@@ -5084,22 +5798,27 @@ hacer antes un gesto de desagrado.
   Pero decidme, mi amor,
   ¿quién mató al comendador?
 
+
   LAURENCIA
 
   Fuente Ovejuna, mi bien.
 
+
   FRONDOSO
 
   ¿Quién le mató?
+
 
   LAURENCIA
 
                   Dasme espanto.
   Pues Fuente Ovejuna fué.
 
+
   FRONDOSO
 
   Y yo ¿con qué te maté?
+
 
   LAURENCIA
 
@@ -5108,10 +5827,12 @@ hacer antes un gesto de desagrado.
 (_Vanse, y salen el_ REY _y la_ REINA _y_
 MANRIQUE [_luego_].)
 
+
   ISABEL
 
     No entendí, señor, hallaros
   aquí, y es buena mi suerte.
+
 
   REY
 
@@ -5120,18 +5841,22 @@ MANRIQUE [_luego_].)
     Iba a Portugal de paso,
   y llegar aquí fué fuerza.
 
+
   ISABEL
 
   Vuestra majestad le tuerza,
   siendo conveniente el caso.
 
+
   REY
 
     ¿Cómo dejáis a Castilla?
 
+
   ISABEL
 
   En paz queda, quieta y llana.
+
 
   REY
 
@@ -5140,6 +5865,7 @@ MANRIQUE [_luego_].)
 
 (_Sale_ DON MANRIQUE.)
 
+
   MANRIQUE
 
     Para ver vuestra presencia
@@ -5147,9 +5873,11 @@ MANRIQUE [_luego_].)
   que aquí de llegar acaba,
   pide que le deis licencia.
 
+
   ISABEL
 
     Verle tenía deseado.
+
 
   MANRIQUE
 
@@ -5158,6 +5886,7 @@ MANRIQUE [_luego_].)
   es valeroso soldado.
 
 ([_Vase, y_] _sale el_ MAESTRE.)
+
 
   MAESTRE
 
@@ -5190,20 +5919,24 @@ MANRIQUE [_luego_].)
   junto con la firma y fe
   de en mi vida disgustaros.
 
+
   REY
 
     Alzad, maestre, del suelo;
   que siempre que hayáis venido
   seréis muy bien recibido.
 
+
   MAESTRE
 
   Sois de afligidos consuelo.
+
 
   ISABEL
 
     Vos, con valor peregrino,
   sabéis bien decir y hacer.
+
 
   MAESTRE
 
@@ -5212,6 +5945,7 @@ MANRIQUE [_luego_].)
 
 (_Sale_ MANRIQUE.)
 
+
   MANRIQUE
 
     Señor, el pesquisidor
@@ -5219,9 +5953,11 @@ MANRIQUE [_luego_].)
   con el despacho ha venido
   a verse ante tu valor.
 
+
   REY
 
     Sed juez de estos agresores.
+
 
   MAESTRE
 
@@ -5229,9 +5965,11 @@ MANRIQUE [_luego_].)
   sin duda les enseñara
   a matar comendadores.
 
+
   REY
 
     Eso ya no os toca a vos.
+
 
   ISABEL
 
@@ -5240,6 +5978,7 @@ MANRIQUE [_luego_].)
   si me lo concede Dios.
 
 (_Sale el_ JUEZ.)
+
 
   JUEZ
 
@@ -5271,6 +6010,7 @@ MANRIQUE [_luego_].)
   para más certificarte:
   de ellos podrás informarte.
 
+
   REY
 
   Que entren, pues vienen, les di.
@@ -5278,22 +6018,27 @@ MANRIQUE [_luego_].)
 (_Salen los dos_ ALCALDES, FRONDOSO, _las mujeres y
 los villanos que quisieren._)
 
+
   LAURENCIA
 
     ¿Aquestos los reyes son?
 
+
   FRONDOSO
 
   Y en Castilla poderosos.
+
 
   LAURENCIA
 
   Por mi fe, que son hermosos:
   ¡bendígalos San Antón!
 
+
   ISABEL
 
     ¿Los agresores son éstos?
+
 
   ALCALDE ESTEBAN
 
@@ -5309,6 +6054,7 @@ los villanos que quisieren._)
   y las doncellas forzaba,
   siendo de piedad extraño.
 
+
   FRONDOSO
 
     Tanto, que aquesta zagala,
@@ -5323,6 +6069,7 @@ los villanos que quisieren._)
   ella, que en virtud florece,
   ya manifiesto parece
   lo que pudiera pasar.
+
 
   MENGO
 
@@ -5347,6 +6094,7 @@ los villanos que quisieren._)
   polvos de arrayán y murta
   más que vale mi cortijo.
 
+
   ALCALDE ESTEBAN
 
     Señor, tuyos ser queremos.
@@ -5358,6 +6106,7 @@ los villanos que quisieren._)
   que en este caso te damos
   por abono la inocencia.
 
+
   REY
 
     Pues no puede averiguarse
@@ -5368,6 +6117,7 @@ los villanos que quisieren._)
   en mí, pues de mí se vale,
   hasta ver si acaso sale
   comendador que la herede.
+
 
   FRONDOSO
 
@@ -5397,62 +6147,17 @@ INDICE
        *       *       *       *       *
 
 
-Transcriber's Notes
+Nota del Transcriptor:
 
-Italic text is denoted by _underscores_ and
-smallcap words have been capitalized.
 
-Spelling and hyphenation have been retained as in the original
-publication, except as follows:
+  Se ha respetado la ortografía y la acentuación del original.
 
-Page  21, "(_Vanse, y salen_ PASCUALA _y_ LAURENCIA."
-             replaced by
-          "(_Vanse, y salen_ PASCUALA _y_ LAURENCIA.)"
+  Errores obvios de imprenta han sido corregidos.
 
-Page  31, "Que no hay amor" replaced by
-          "Que no hay amor."
+  Páginas en blanco han sido eliminadas.
 
-Page  32, "Amor hay, y el que entre si" replaced by
-          "Amor hay, y el que entre sí"
+  Letras itálicas son denotadas con _líneas_.
 
-Page  35, "en sus cademias y escuelas." replaced by
-          "en sus academias y escuelas."
-
-Page  44, "COMENDADOR [Aparte a Ortuño.)" replaced by
-          "COMENDADOR [Aparte a Ortuño.]"
-
-Page  45,  "v a n s e" replaced by
-           "vanse".
-
-Page  56, "la nuez[1], que os he de apiolar" replaced by
-          "la nuez[1], que os he de apiolar."
-
-Page  78, "(pues que no hay hombre ninguno)," replaced by
-          "  (pues que no hay hombre ninguno),"
-
-Page  86, "_Llévanla y vanse, y salen_
-           LAURENCIA _y_ FRONDOSO.)" replaced by
-          "(_Llévanla y vanse, y salen_
-           LAURENCIA _y_ FRONDOSO.)"
-
-Page 117, "Acudid, por que se cobre
-           vuestro honor, acudid todas!" replaced by
-          "¡Acudid, por que se cobre
-            vuestro honor, acudid todas!"
-Page 120, "Colgalde luego en la..." replaced by
-          "Colgadle luego en la..."
-
-Page 120, "(_R u i d o s u e n e._)" replaced by
-          "(_Ruido suene._)"
-
-Page 135, "El original, _agora_" replaced by
-          "_El original_, agora"
-
-Page 139, "Amando, recelar..." replaced by
-          "LAURENCIA
-           Amando, recelar..."
-
-Page 142, "que aunque es cosa saludable.." replaced by
-          "que aunque es cosa saludable..."
-
+  Las versalitas (letras mayúsculas de tamaño igual a las minúsculas)
+  han sido sustituidas por letras mayúsculas de tamaño normal
 
