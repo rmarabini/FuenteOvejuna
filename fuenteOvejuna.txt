@@ -502,7 +502,7 @@ Cueva, privado del rey Enrique IV y amante de la reina.
   querer a Fernando yo?
   ¿Casarme con él?
 
- 
+
   PASCUALA
 
                   No.
@@ -555,7 +555,7 @@ Cueva, privado del rey Enrique IV y amante de la reina.
             Y yo sospecho
   que te han de engañar, Laurencia.
 
- 
+
   LAURENCIA
 
   ¿A mí?
@@ -1923,6 +1923,7 @@ ACTO SEGUNDO DE FUENTE OVEJUNA
   El año apunta mal, y el tiempo crece,
   y es mejor que el sustento esté en depósito,
   aunque lo contradicen más de trece.
+
 
   REGIDOR 1.°
 
@@ -3300,6 +3301,7 @@ _huyendo._)
   De la moza el parecer
   tomad antes de acetallo.
 
+
   [ESTEBAN], ALCALDE
 
     No tengáis de eso cuidado,
@@ -3549,6 +3551,7 @@ _y_ ORTUÑO.)
 LAURENCIA, PASCUALA, BARRILDO,
 ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
+
   MÚSICOS
 
     _¡Vivan muchos años
@@ -3634,6 +3637,7 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
   de puro vivir cansados.
   ¡Vivan muchos años!
 
+
   [FRONDOSO][36]
 
     ¡Maldiga el cielo el poeta,
@@ -3685,6 +3689,7 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
   Las manos nos da a besar.
 
+
   JUAN [ROJO]
 
   Hija, ¿mi mano procuras?
@@ -3703,10 +3708,12 @@ ESTEBAN _y_ ALCALDE [JUAN ROJO].)
 
   Los dos a los dos la echad.
 
+
   JUAN [ROJO]
 
   Ea, tañed y cantad,
   pues que para en uno son.
+
 
   MÚSICOS
 
@@ -3743,6 +3750,7 @@ CIMBRANOS.)
 
     Estése la boda queda,
   y no se alborote nadie.
+
 
   JUAN [ROJO]
 
@@ -3934,6 +3942,7 @@ CIMBRANOS.)
   que aun se ven los cardenales
   sin que un hombre vaya a Roma.
   Prueben otros a enojarle.
+
 
   JUAN [ROJO]
 
@@ -4531,6 +4540,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
     En esta puerta, así como rastrillo,
   su furor con las armas defendamos.
 
+
   FRONDOSO (_Dentro._)
 
   ¡Viva Fuente Ovejuna!
@@ -4622,6 +4632,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
   Todas son de esos mismos pareceres.
 
+
   ESTEBAN (_Dentro._)
 
   ¡Muere, traidor comendador!
@@ -4641,6 +4652,7 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
                       Dale a ese bellaco;
   que ese fué el que me dió dos mil azotes.
+
 
   FRONDOSO (_Dentro._)
 
@@ -4670,9 +4682,11 @@ ORTUÑO, CIMBRANOS _y el_ COMENDADOR.)
 
 (_Vase._)
 
+
   BARRILDO [_Dentro._]
 
   Aquí está Ortuño.
+
 
   FRONDOSO [_Dentro._]
 
@@ -4813,7 +4827,8 @@ ISABEL, _y_ DON MANRIQUE, _maestre._)
 
 (_Sale_ FLORES, _herido._)
 
-FLORES
+
+  FLORES
 
     Católico rey Fernando,
   a quien el cielo concede
@@ -4912,6 +4927,7 @@ FLORES
 (_Vanse, y salen los labradores y labradoras, con la cabeza de Fernán
 Gómez en una lanza._)
 
+
   MÚSICOS
 
     _¡Muchos años vivan
@@ -5000,6 +5016,7 @@ Gómez en una lanza._)
   pero agora que los pringo,
   ¡vivan los reyes cristiánigos,
   y mueran los tiránigos!»
+
 
   MÚSICA
 
@@ -6154,11 +6171,11 @@ Nota del Transcriptor:
 
   Se ha respetado la ortografía y la acentuación del original.
 
-  Errores obvios de imprenta han sido corregidos.
+  Se han corregido los errores obvios de imprenta.
 
-  Páginas en blanco han sido eliminadas.
+  Se han eliminado las páginas en blanco.
 
-  Letras itálicas son denotadas con _líneas_.
+  Las letras itálicas se denotan con el caracter de _subrayado_.
 
   Las versalitas (letras mayúsculas de tamaño igual a las minúsculas)
   han sido sustituidas por letras mayúsculas de tamaño normal
