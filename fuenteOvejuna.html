@@ -99,8 +99,7 @@
         .indent2  {margin-left: 1em;}
 
 
-        .stage-direction {font-style: italic;
-        								}
+        .stage-direction {font-style: italic;}
 
         div.prologue {font-style: italic;}
 
@@ -122,6 +121,7 @@
 			{
 			  text-align: center;
 			  font-size: 95%;
+		      max-width: 19em;
 			}
 
 		.poetry
@@ -156,9 +156,9 @@
 		.poetry .linetc
 		{
 		  margin: 0;
-		  text-indent: -3em;
+		  text-indent: 0em;
 		  padding-left: 3em;
-		  text-align: center;
+		  text-align: left;
 		  padding-top: 1em;
 		  padding-bottom: .75em;
 		}
@@ -190,28 +190,7 @@
   <p class="tdc">MADRID, 1919</p>
   <p class="tdc">Talleres "Calpe", Ríos Rosas, 24.&mdash;MADRID</p>
 
-  <!--
-      <div class="pagenum"><a name="Page_2" id="Page_2">[2]</a></div>
-      <div class="pagenum"><a name="Page_3" id="Page_3">[3]</a></div>
-      <hr />
-  -->
-
-  <!--
-
-  <h2> LOPE DE VEGA</h2>
-  <hr class="r5" />
-  <h1>Fuente Ovejuna</h1>
-  <p class="tdc">COMEDIA</p>
-  <p class="tdc">Edición revisada por Américo Castro</p>
-  <p class="img"><img src="images/002.png" alt="Calpe logo" width="150" /></p>
-  <p class="tdc">MADRID, 1919</p>
-  -->
   <p class="p6"><span class="pagenum"><a name="Page_5" id="Page_5">[5]</a></span></p>
-  <!--
-  <p class="tdc"> Talleres "Calpe", Ríos Rosas, 24.&mdash;MADRID</p>
-
-  <hr class="chap" />
-  -->
 
   <div class="chapter">
 	  <div class="prologue">
@@ -345,15 +324,14 @@
 		<hr class="r5" />
 	</div>
 
-	<p class="tdc">(<span class="stage-direction">Salen el
-	    <span class="smcap">Comendador</span>,
-	    <span class="smcap">Flores</span> y
-	    <span class="smcap">Ortuño</span>, criados</span>.)
-	</p>
-
-
-	<div class="poetry-container">
+  	<div class="poetry-container">
 		<div class="poetry">
+
+			<p class="tdc">(<span class="stage-direction">Salen el
+				<span class="smcap">Comendador</span>,
+				<span class="smcap">Flores</span> y
+				<span class="smcap">Ortuño</span>, criados</span>.)
+			</p>
 
 			<div class="stanza">
 				<div class="linetc">COMENDADOR</div>
@@ -784,7 +762,8 @@
 			<div class="stanza">
 				<div class="linetc">PASCUALA</div>
 				<div class="line"><span style="visibility: hidden">¿A mí? </span>
-					Que no, sino al cura.</div>
+					Que no, sino al cura.
+				</div>
 			</div>
 
 			<div class="stanza">
@@ -1299,14 +1278,10 @@
 				<div class="linetc">FRONDOSO</div>
 				<div class="line">	¿Qué mayor que ese desdén?</div>
 			</div>
-<!--		</div>   poetry -->
 
-
-		<p class="tdc">(<span class="stage-direction">Sale
-	    	<span class="smcap">Flores</span></span>.)
-		</p>
-
-<!--		<div class="poetry"> -->
+			<p class="tdc">(<span class="stage-direction">Sale
+				<span class="smcap">Flores</span></span>.)
+			</p>
 
 			<div class="stanza">
 				<div class="linetc">FLORES</div>
@@ -1441,7 +1416,7 @@
 				<span class="smcap">Comendador</span> y
 				<span class="smcap">Ortuño</span>;
 				<span class="smcap">Músicos</span>;
-				<span class="smcap">Juan<br/> Rojo</span> y
+				<span class="smcap">Juan Rojo</span> y
 				<span class="smcap">Esteban</span>,
 				<span class="smcap">Alonso</span>, alcaldes.</span>)
 			</p>
@@ -1553,7 +1528,7 @@
             <div class="line"> <span style="visibility: hidden">Id con Dios.</span>
                 Ea, cantores,</div>
             <div class="line">	vaya otra vez la letrilla.</div>
-        </div> <!--stanza-->
+        </div>
 
 		<p class="tdc">(<span class="stage-direction">Cantan.</span>)
 		</p>
@@ -1573,15 +1548,14 @@
 			<div class="linetc">COMENDADOR</div>
 			<div class="line i1">Esperad vosotras dos.</div>
         </div>
-
         <div class="stanza">
 			<div class="linetc">LAURENCIA</div>
 			<div class="line">¿Qué manda su señoría?</div>
         </div>
 
         <div class="stanza">
-			<div class="linetc">COMENDADOR<spam class="pagenum">
-				<a name="Page_43" id="Page_43">[43]</a></spam>
+			<div class="linetc">COMENDADOR<span class="pagenum">
+				<a name="Page_43" id="Page_43">[43]</a></span>
 			</div>
 			<div class="line">¡Desdenes el otro día,</div>
 			<div class="line">	pues, conmigo! ¡Bien por Dios!</div>
@@ -1659,6 +1633,7 @@
 			<div class="line"><span style="visibility: hidden">Entra, pues.</span>
 				No nos agarre.
 			</div>
+		</div>
 
         <div class="stanza">
 			<div class="linetc">FLORES</div>
@@ -1694,9 +1669,996 @@
 			<div class="line">Flores, dejadnos pasar.</div>
 		</div>
 
+        <div class="stanza">
+			<div class="linetc">ORTUÑO</div>
+			<div class="line i1">¿También venís presentadas</div>
+			<div class="line">con lo demás?</div>
+        </div>
 
-		</div><!-- poetry -->
+        <div class="stanza">
+			<div class="linetc">PASCUALA</div>
+			<div class="line">	<span style="visibility: hidden">con lo demás?</span>
+				¡Bien a fe!
+			</div>
+			<div class="line">	Desvíese, no le dé...</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FLORES</div>
+			<div class="line">Basta; que son extremadas.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line i1">¿No basta a vueso señor</div>
+			<div class="line">tanta carne presentada?</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">ORTUÑO</div>
+			<div class="line">La vuestra es la que le agrada.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">Reviente de mal dolor.</div>
+		</div>
+
+		<p class="tdc">(<span class="stage-direction">Vanse.</span>)
+		</p>
+
+        <div class="stanza">
+			<div class="linetc">FLORES</div>
+			<div class="line i1">¡Muy buen recado llevamos!</div>
+			<div class="line">No se ha de poder sufrir</div>
+			<div class="line">lo que nos ha de decir<span class="pagenum">
+				<a name="Page_46" id="Page_46">[46]</a></span>
+			</div>
+			<div class="line">cuando sin ellas nos vamos.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">ORTUÑO</div>
+			<div class="line i1">Quien sirve se obliga a esto.</div>
+			<div class="line">	Si en algo desea medrar,</div>
+			<div class="line">	o con paciencia ha de estar,</div>
+			<div class="line">	o ha despedirse de presto.</div>
+        </div>
+
+		<p class="tdc">(
+			<span class="stage-direction">Vanse los dos y salgan el
+				<span class="smcap">Rey don Fernando</span>, la
+				<span class="smcap">Reina doña Isabel</span>,
+				<span class="smcap">Manrique</span>
+				y acompañamiento
+		   </span>.)
+		</p>
+
+        <div class="stanza">
+			<div class="linetc">ISABEL</div>
+			<div class="line i1">Digo, señor, que conviene</div>
+			<div class="line">	el no haber descuido en esto,</div>
+			<div class="line">	por ver a Alfonso en tal puesto,</div>
+			<div class="line">	y su ejército previene.</div>
+			<div class="line i1">Y es bien ganar por la mano</div>
+			<div class="line">	antes que el daño veamos;</div>
+			<div class="line">	que si no lo remediamos,</div>
+			<div class="line">	el ser muy cierto está llano.</div>
+		</div>
+
+        <div class="stanza">
+			<div class="linetc">REY</div>
+			<div class="line i1">De Navarra y de Aragón</div>
+			<div class="line">está el socorro seguro,</div>
+			<div class="line">y de Castilla procuro</div>
+			<div class="line">hacer la reformación</div>
+			<div class="line i1">de modo, que el buen suceso</div>
+			<div class="line">con la prevención se vea.</div>
+		</div>
+
+        <div class="stanza">
+			<div class="linetc">ISABEL <span class="pagenum"><a name="Page_47" id="Page_47">[47]</a></span></div>
+			<div class="line">Pues vuestra majestad crea</div>
+			<div class="line">que el buen fin consiste en esto.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">MANRIQUE</div>
+			<div class="line i1">Aguardando tu licencia</div>
+			<div class="line">dos regidores están</div>
+			<div class="line">de Ciudad Real: ¿entrarán?</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">REY</div>
+			<div class="line">No les nieguen mi presencia.</div>
+        </div>
+
+		<p class="tdc">(<span class="stage-direction">Salen dos
+			<span class="smcap">Regidores
+			</span> de Ciudad Real</span>.)
+		</p>
+
+        <div class="stanza">
+			<div class="linetc">REGIDOR 1.º</div>
+			<div class="line i1">Católico rey Fernando,</div>
+			<div class="line">	a quien ha enviado el cielo,</div>
+			<div class="line">	desde Aragón a Castilla,</div>
+			<div class="line">	para bien y amparo nuestro:</div>
+			<div class="line">	en nombre de Ciudad Real</div>
+			<div class="line">	a vuestro valor supremo</div>
+			<div class="line">	humildes nos presentamos,</div>
+			<div class="line">	el real amparo pidiendo.</div>
+			<div class="line">	A mucha dicha tuvimos</div>
+			<div class="line">	tener título de vuestros;</div>
+			<div class="line">	pero pudo derribarnos</div>
+			<div class="line">	deste honor el hado adverso.</div>
+			<div class="line">	El famoso don Rodrigo</div>
+			<div class="line">	Téllez Girón, cuyo esfuerzo</div>
+			<div class="line">	es en valor extremado,<span class="pagenum">
+				<a name="Page_48" id="Page_48">[48]</a></span>
+			</div>
+			<div class="line">	aunque es en la edad tan tierno,</div>
+			<div class="line">	maestre de Calatrava,</div>
+			<div class="line">	él, ensanchar pretendiendo</div>
+			<div class="line">	el honor de la encomienda,</div>
+			<div class="line">	nos puso apretado cerco.</div>
+			<div class="line">	Con valor nos prevenimos,</div>
+			<div class="line">	a su fuerza resistiendo,</div>
+			<div class="line">	tanto, que arroyos corrían</div>
+			<div class="line">	de la sangre de los muertos.</div>
+			<div class="line">	Tomó posesión, en fin;</div>
+			<div class="line">	pero no llegara a hacerlo,</div>
+			<div class="line">	a no le dar Fernán Gómez</div>
+			<div class="line">	orden, ayuda y consejo.</div>
+			<div class="line">	El queda en la posesión,</div>
+			<div class="line">	y sus vasallos seremos,</div>
+			<div class="line">	suyos, a nuestro pesar,</div>
+			<div class="line">	a no remediarlo presto. </div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">REY</div>
+			<div class="line">¿Dónde queda Fernán Gómez?</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">REGIDOR 1.º</div>
+			<div class="line">	En Fuente Ovejuna creo,</div>
+			<div class="line">	por ser su villa, y tener</div>
+			<div class="line">	en ella casa y asiento.</div>
+			<div class="line">	Allí, con más libertad</div>
+			<div class="line">	de la que decir podemos,</div>
+			<div class="line">	tiene a los súbditos suyos</div>
+			<div class="line">	de todo contento ajenos.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">REY<span class="pagenum">
+				<a name="Page_49" id="Page_49">[49]</a></span>
+			</div>
+			<div class="line">¿Tenéis algún capitán?</div>
+        </div>
+
+        <div class="stanza">
+				<div class="linetc">REGIDOR 2.º</div>
+			<div class="line">	Señor, el no haberle es cierto,</div>
+			<div class="line">	pues no escapó ningún noble</div>
+			<div class="line">	de preso, herido o de muerto.</div>
+        </div>
+
+        <div class="stanza">
+				<div class="linetc">ISABEL</div>
+			<div class="line i1">Ese caso no requiere</div>
+			<div class="line">	ser despacio remediado;</div>
+			<div class="line">	que es dar al contrario osado</div>
+			<div class="line">	el mismo valor que adquiere;</div>
+			<div class="line i1"> y puede el de Portugal,</div>
+			<div class="line">	hallando puerta segura,</div>
+			<div class="line">	entrar por Extremadura</div>
+			<div class="line">	y causamos mucho mal.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">REY</div>
+			<div class="line i1">Don Manrique, partid luego,</div>
+			<div class="line">	llevando dos compañías;</div>
+			<div class="line">	remediad sus demasías,</div>
+			<div class="line">	sin darles ningún sosiego.</div>
+			<div class="line i1">El conde de Cabra ir puede</div>
+			<div class="line">	con vos; que es Córdoba osado,</div>
+			<div class="line">	a quien nombre de soldado</div>
+			<div class="line">	todo el mundo le concede;</div>
+			<div class="line i1">que éste es el medio mejor</div>
+			<div class="line">	que la ocasión nos ofrece.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">MANRIQUE <span class="pagenum">
+				<a name="Page_50" id="Page_50">[50]</a></span>
+			</div>
+			<div class="line"> El acuerdo me parece</div>
+			<div class="line"> como de tan gran valor.</div>
+			<div class="line i1">	Pondré límite a su exceso,</div>
+			<div class="line">	si el vivir en mí no cesa.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">ISABEL</div>
+			<div class="line">	Partiendo vos a la empresa,</div>
+			<div class="line">	seguro está el buen suceso.</div>
+        </div>
+
+		<p class="tdc">(<span class="stage-direction">Vanse todos y salen
+	    <span class="smcap">Laurencia</span> y
+	    <span class="smcap">Frondoso</span></span>.)</p>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line i1">A medio torcer los paños,</div>
+			<div class="line">	quise, atrevido Frondoso,</div>
+			<div class="line">	para no dar que decir,</div>
+			<div class="line">	desviarme del arroyo;</div>
+			<div class="line">	decir a tus demasías</div>
+			<div class="line">	que murmura el pueblo todo,</div>
+			<div class="line">	que me miras y te miro,</div>
+			<div class="line">	y todos nos traen sobre ojo.</div>
+			<div class="line">	Y como tú eres zagal,</div>
+			<div class="line">	de los que huellan, brioso,</div>
+			<div class="line">	y excediendo a los demás,</div>
+			<div class="line">	vistes bizarro y costoso,</div>
+			<div class="line">	en todo el lugar no hay moza,</div>
+			<div class="line">	o mozo en el prado o soto,</div>
+			<div class="line">	que no se afirme diciendo</div>
+			<div class="line">	que ya para en uno somos;</div>
+			<div class="line">	y esperan todos el día</div>
+			<div class="line">	que el sacristán Juan Chamorro<span class="pagenum">
+				<a name="Page_51" id="Page_51">[51]</a></span>
+			</div>
+			<div class="line">	nos eche de la tribuna,</div>
+			<div class="line">	en dejando los piporros<a name="FNanchor_1_19" id="FNanchor_1_19"></a>
+	<a href="#Footnote_1_19" class="fnanchor">[19]</a>.</div>
+			<div class="line">	Y mejor sus trojes vean</div>
+			<div class="line">	de rubio trigo en agosto</div>
+			<div class="line">	atestadas y colmadas,</div>
+			<div class="line">	y sus tinajas de mosto,</div>
+			<div class="line">	que tal imaginación</div>
+			<div class="line">	me ha llegado a dar enojo:</div>
+			<div class="line">	ni me desvela ni aflige,</div>
+			<div class="line">	ni en ella el cuidado pongo.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">	Tal me tienen tus desdenes,</div>
+			<div class="line">	bella Laurencia, que tomo,</div>
+			<div class="line">	en el peligro de verte,</div>
+			<div class="line">	la vida, cuando te oigo.</div>
+			<div class="line">	Si sabes que es mi intención</div>
+			<div class="line">	el desear ser tu esposo,</div>
+			<div class="line">	mal premio das a mi fe.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	Es que yo no sé dar otro.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">	¿Posible es que no te duelas</div>
+			<div class="line">	de verme tan cuidadoso,</div>
+			<div class="line">	y que imaginando en ti,</div>
+			<div class="line">	ni bebo, duermo ni como?<span class="pagenum"><a name="Page_52" id="Page_52">[52]</a></span></div>
+			<div class="line">	¿Posible es tanto rigor</div>
+			<div class="line">	en ese angélico rostro?</div>
+			<div class="line">	¡Viven los cielos que rabio!</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">Pues salúdate<a name="FNanchor_1_20" id="FNanchor_1_20"></a>
+					<a href="#Footnote_1_20" class="fnanchor">[20]</a>, Frondoso.
+			</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">	Ya te pido yo salud,</div>
+			<div class="line">	y que ambos, como palomos,</div>
+			<div class="line">	estemos, juntos los picos,</div>
+			<div class="line">	con arrullos sonorosos,</div>
+			<div class="line">	después de damos la Iglesia...</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	Dilo a mi tío Juan Rojo;</div>
+			<div class="line">	que aunque no te quiero bien,</div>
+			<div class="line">	ya tengo algunos asomos.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line"> ¡Ay de mí! El señor es éste.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	Tirando viene a algún corzo.</div>
+			<div class="line">	Escóndete en esas ramas.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">FRONDOSO<span class="pagenum">
+				<a name="Page_53" id="Page_53">[53]</a></span>
+			</div>
+			<div class="line">Y ¡con qué celos me escondo!</div>
+        </div>
+
+		<p class="tdc">(<span class="stage-direction">Sale el
+			<span class="smcap">Comendador</span></span>.)
+		</p>
+
+        <div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line i1"> No es malo venir siguiendo</div>
+			<div class="line"> un corcillo temeroso,</div>
+			<div class="line"> y topar tan bella gama.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	Aquí descansaba un poco</div>
+			<div class="line">	de haber lavado unos paños;</div>
+			<div class="line">	y así, al arroyo me tomo,</div>
+			<div class="line">	si manda su señoría.</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">	Aquesos desdenes toscos</div>
+			<div class="line">	afrentan, bella Laurencia,</div>
+			<div class="line">	las gracias que el poderoso</div>
+			<div class="line">	cielo te dió, de tal suerte,</div>
+			<div class="line">	que vienes a ser un monstruo.</div>
+			<div class="line">	Mas si otras veces pudiste</div>
+			<div class="line">	huir mi ruego amoroso,</div>
+			<div class="line">	agora no quiere el campo,</div>
+			<div class="line">	amigo secreto y solo;</div>
+			<div class="line">	que tú sola no has de ser</div>
+			<div class="line">	tan soberbia, que tu rostro</div>
+			<div class="line">	huyas al señor que tienes,</div>
+			<div class="line">	teniéndome a mí en tan poco.</div>
+			<div class="line">	¿No se rindió Sebastiana,
+				<span class="pagenum"><a name="Page_54" id="Page_54">[54]</a></span>
+			</div>
+			<div class="line">	mujer de Pedro Redondo,</div>
+			<div class="line">	con ser casadas entrambas,</div>
+			<div class="line">	y la de Martín del Pozo,</div>
+			<div class="line">	habiendo apenas pasado</div>
+			<div class="line">	dos días del desposorio?</div>
+        </div>
+
+        <div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	Esas, señor, ya tenían,</div>
+			<div class="line">	de haber andado con otros,</div>
+			<div class="line">	el camino de agradaros;</div>
+			<div class="line">	porque también muchos mozos</div>
+			<div class="line">	merecieron sus favores.</div>
+			<div class="line">	Id con Dios, tras vueso corzo;</div>
+			<div class="line">	que a no veros con la cruz,</div>
+			<div class="line">	os tuviera por demonio,</div>
+			<div class="line">	pues tanto me perseguís.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">	¡Qué estilo tan enfadoso!</div>
+			<div class="line">	Pongo la ballesta en tierra,</div>
+			<div class="line">	...<a name="FNanchor_1_21" id="FNanchor_1_21"></a>
+	<a href="#Footnote_1_21" class="fnanchor">[21]</a></div>
+			<div class="line">	y a la práctica de manos</div>
+			<div class="line">	reduzgo melindres.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line"><span style="visibility: hidden">reduzgo melindres.</span>
+				¡Cómo!
+			</div>
+			<div class="line">¿Eso hacéis? ¿Estáis en vos?</div>
+		</div>
+
+		<p class="tdc">(<span class="stage-direction">Sale
+			<span class="smcap">Frondoso</span>
+			y toma la ballesta</span>.)<span class="pagenum"><a name="Page_55" id="Page_55">[55]</a></span>
+		</p>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line"> No te defiendas.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO [<span class="stage-direction">Aparte.</span>]
+			</div>
+			<div class="line">	<span style="visibility: hidden">No te defiendas.</span>
+				Si tomo
+			</div>
+			<div class="line">la ballesta, ¡vive el cielo</div>
+			<div class="line">que no la ponga en el hombro!</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Acaba, ríndete.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line">	<span style="visibility: hidden">Acaba, ríndete.</span>
+				¡Cielos,
+			</div>
+			<div class="line">	ayudadme agora!</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">	<span style="visibility: hidden">ayudadme agora!</span>
+				Solos
+			</div>
+			<div class="line">	estamos; no tengas miedo.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">	Comendador generoso,</div>
+			<div class="line">	dejad la moza, o creed</div>
+			<div class="line">	que de mi agravio y enojo</div>
+			<div class="line">	será blanco vuestro pecho,</div>
+			<div class="line">	aunque la cruz me da asombro.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR<span class="pagenum">
+				<a name="Page_56" id="Page_56">[56]</a></span>
+			</div>
+			<div class="line"> ¡Perro, villano!...</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line"><span style="visibility: hidden">¡Perro, villano!...</span>
+				No hay perro.
+			</div>
+			<div class="line">Huye, Laurencia.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LAURENCIA</div>
+			<div class="line"><span style="visibility: hidden">Huye, Laurencia.</span>
+				Frondoso,
+			</div>
+			<div class="line">mira lo que haces.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line"><span style="visibility: hidden">mira lo que haces.</span>
+				Vete.
+			</div>
+		</div>
+
+		<p class="tdc">(<span class="stage-direction">Vase.</span>)</p>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">¡Oh, mal haya el hombre loco,</div>
+			<div class="line">que se desciñe la espada!</div>
+			<div class="line">Que, de no espantar medroso</div>
+			<div class="line">la caza, me la quité.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">Pues, pardiez, señor, si toco</div>
+			<div class="line">la nuez<a name="FNanchor_1_22" id="FNanchor_1_22"></a>
+				<a href="#Footnote_1_22" class="fnanchor">[22]</a>, que os he de apiolar.
+			</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Ya es ida. Infame, alevoso,</div>
+			<div class="line">suelta la ballesta luego.<span class="pagenum">
+				<a name="Page_57" id="Page_57">[57]</a></span>
+			</div>
+			<div class="line">Suéltala, villano.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line"><span style="visibility: hidden">Suéltala, villano.</span>
+				¿Cómo?
+			</div>
+			<div class="line">Que me quitaréis la vida.</div>
+			<div class="line">Y advertid que amor es sordo,</div>
+			<div class="line">y que no escucha palabras</div>
+			<div class="line">el día que está en su trono.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Pues ¿la espa[l]da ha de volver</div>
+			<div class="line">un hombre tan valeroso</div>
+			<div class="line">a un villano? Tira, infame,</div>
+			<div class="line">tira, y guárdate; que rompo</div>
+			<div class="line">las leyes de caballero.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">FRONDOSO</div>
+			<div class="line">Eso no. Yo me conformo</div>
+			<div class="line">con mi estado, y pues me es</div>
+			<div class="line">guardar la vida forzoso,</div>
+			<div class="line">con la ballesta me voy.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">¡Peligro extraño y notorio!</div>
+			<div class="line">Mas yo tomaré venganza</div>
+			<div class="line">del agravio y del estorbo.</div>
+			<div class="line">¡Que no cerrara con él!</div>
+			<div class="line">¡Vive el cielo, que me corro!</div>
+		</div>
+
+	</div><!-- poetry -->
 </div> <!--poetry-container -->
+
+
+<div class="chapter">
+   <p class="p6"><span class="pagenum"><a name="Page_61" id="Page_61">[61]</a>
+				 </span>
+   </p>
+<h2> ACTO SEGUNDO<br /> DE FUENTE OVEJUNA</h2>
+
+<hr class="r5" />
+</div> <!chapter-->
+
+<div class="poetry-container">
+	<div class="poetry">
+		<p class="tdc">(<span class="stage-direction">Salen
+			<span class="smcap">Esteban</span> y
+			<span class="smcap">Regidor</span> 1.°</span>)
+		</p>
+
+		<div class="stanza">
+			<div class="linetc">ESTEBAN</div>
+			<div class="line i1">Así tenga salud, como parece,</div>
+			<div class="line">que no se saque más agora el pósito.</div>
+			<div class="line">El año apunta mal, y el tiempo crece,</div>
+			<div class="line">y es mejor que el sustento esté en depósito,</div>
+			<div class="line">aunque lo contradicen más de trece.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">REGIDOR 1.º</div>
+			<div class="line">Yo siempre he sido, al fin, de este propósito,</div>
+			<div class="line">en gobernar en paz esta república.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">ESTEBAN</div>
+			<div class="line">Hagamos de ello a Fernán Gómez súplica.</div>
+			<div class="line i1">No se puede sufrir que estos astrólogos,</div>
+			<div class="line">en las cosas futuras ignorantes
+				<a name="FNanchor_1_23" id="FNanchor_1_23"></a>
+				<a href="#Footnote_1_23" class="fnanchor">[23]</a>,
+			</div>
+			<div class="line">nos quieran persuadir con largos prólogos</div>
+			<div class="line">los secretos a Dios sólo importantes.</div>
+			<div class="line">¡Bueno es que, presumiendo de teólogos,</div>
+			<div class="line">hagan un tiempo el que
+				<a name="FNanchor_2_24" id="FNanchor_2_24"></a>
+				<a href="#Footnote_2_24" class="fnanchor">[24]</a> después y antes!
+			</div>
+			<div class="line">Y pidiendo el presente lo importante,
+				<span class="pagenum"><a name="Page_62" id="Page_62">[62]</a></span>
+			</div>
+			<div class="line">al más sabio veréis más ignorante.</div>
+			<div class="line i1">¿Tienen ellos las nubes en su casa</div>
+			<div class="line">y el proceder de las celestes lumbres?</div>
+			<div class="line">¿Por dónde ven lo que en el cielo pasa,</div>
+			<div class="line">para damos con ello pesadumbres?</div>
+			<div class="line">Ellos en [el] sembrar nos ponen tasa:</div>
+			<div class="line">daca el trigo, cebada y las legumbres,</div>
+			<div class="line">calabazas, pepinos y mostazas...</div>
+			<div class="line">Ellos son, a la fe, las calabazas.</div>
+			<div class="line i1">Luego cuentan que muere una cabeza,</div>
+			<div class="line">y después viene a ser en Transilvania;</div>
+			<div class="line">que el vino será poco, y la cerveza</div>
+			<div class="line">sobrará por las partes de Alemania;</div>
+			<div class="line">que se helará en Gascuña la cereza,</div>
+			<div class="line">y que habrá muchos tigres en Hircania.</div>
+			<div class="line">Y al cabo, al cabo, se siembre o no se siembre,</div>
+			<div class="line">el año se remata por diciembre.</div>
+		</div>
+
+		<p class="tdc">(<span class="stage-direction">Salen el licenciado
+	    <span class="smcap">Leonelo</span> y
+	    <span class="smcap">Barrildo</span>.</span>)
+		</p>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line i1">A fe que no ganéis la palmatoria
+				<a name="FNanchor_1_25" id="FNanchor_1_25"></a>
+				<a href="#Footnote_1_25" class="fnanchor">[25]</a>,
+			</div>
+			<div class="line">porque ya está ocupado el mentidero.</div>
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">BARRILDO</div>
+			<div class="line">¿Cómo os fué en Salamanca?</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line">
+				<span style="visibility: hidden">¿Cómo os fué en Salamanca?</span>
+				Es larga historia.
+			</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO
+				<span class="pagenum"><a name="Page_63" id="Page_63">[63]</a></span>
+			</div>
+			<div class="line">Un Bártulo seréis.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line">
+				<span style="visibility: hidden">Un Bártulo seréis.</span>
+				Ni aun un barbero.
+			</div>
+			<div class="line">Es, como digo, cosa muy notoria</div>
+			<div class="line">en esta facultad lo que os refiero.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO</div>
+			<div class="line">Sin duda que venís buen estudiante.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line">Saber he procurado lo importante.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO</div>
+			<div class="line i1">Después que vemos tanto libro impreso,</div>
+			<div class="line">no hay nadie que de sabio no presuma.</div>
+  		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line">Antes que ignoran más siento por eso,</div>
+			<div class="line">por no se reducir a breve suma;</div>
+			<div class="line">porque la confusión, con el exceso,</div>
+			<div class="line">los intentos resuelve en vana espuma;</div>
+			<div class="line">y aquel que de leer tiene más uso,</div>
+			<div class="line">de ver letreros sólo está confuso.</div>
+			<div class="line i1">No niego yo que de
+				<a name="FNanchor_1_26" id="FNanchor_1_26">	</a>
+				<a href="#Footnote_1_26" class="fnanchor">[26]</a>
+				imprimir el arte
+			</div>
+			<div class="line">mil ingenios sacó de entre la jerga,</div>
+			<div class="line">y que parece que en sagrada parte</div>
+			<div class="line">sus obras guarda y contra el tiempo alberga;</div>
+			<div class="line">éste las distribuye y las reparte.</div>
+			<div class="line">Débese esta invención a Gutemberga,
+				<span class="pagenum"><a name="Page_64" id="Page_64">[64]</a></span>
+			</div>
+			<div class="line">un famoso tudesco de Maguncia,</div>
+			<div class="line">en quien la fama su valor renuncia.</div>
+			<div class="line i1">Mas muchos que opinión tuvieron grave,</div>
+			<div class="line">por imprimir sus obras la perdieron;</div>
+			<div class="line">tras esto, con el nombre del que sabe,</div>
+			<div class="line">muchos sus ignorancias imprimieron.</div>
+			<div class="line">Otros, en quien la baja envidia cabe,</div>
+			<div class="line">sus locos desatinos escribieron,</div>
+			<div class="line">y con nombre de aquel que aborrecían,</div>
+			<div class="line">impresos por el mundo los envían.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO</div>
+			<div class="line i1">No soy de esa opinión.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line i1"><span style="visibility: hidden">No soy de esa opinión.</span>
+				El ignorante
+			</div>
+			<div class="line">es justo que se vengue del letrado.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO</div>
+			<div class="line">Leonelo, la impresión es importante.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LEONELO</div>
+			<div class="line">Sin ella muchos siglos se han pasado,</div>
+			<div class="line">y no vemos que en éste se levante</div>
+			<div class="line">un Jerónimo santo, un Agustino.</div>
+			<div class="line">...<a name="FNanchor_1_27" id="FNanchor_1_27"></a>
+				<a href="#Footnote_1_27" class="fnanchor">[27]</a>.
+			</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">BARRILDO</div>
+			<div class="line">Dejadlo y asentaos, que estáis mohino.
+		</div>
+
+	<p class="tdc">(<span class="stage-direction">Salen
+	    <span class="smcap">Juan Rojo</span> y otro labrador</span>.)
+			<span class="pagenum"><a name="Page_65" id="Page_65">[65]</a></span>
+	</p>
+
+		<div class="stanza">
+			<div class="linetc">JUAN ROJO</div>
+			<div class="line i1">No hay en cuatro haciendas para un dote,</div>
+			<div class="line">si es que las vistas han de ser al uso;</div>
+			<div class="line">que el hombre que es curioso es bien que note</div>
+			<div class="line">que en esto el barrio y vulgo anda confuso.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LABRADOR</div>
+			<div class="line">¿Qué hay del comendador? No os alborote.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">JUAN ROJO</div>
+			<div class="line">¡Cuál a Laurencia en ese campo puso!</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">LABRADOR</div>
+			<div class="line">¿Quién fué cual él tan bárbaro y lascivo?</div>
+			<div class="line">Colgado le vea yo del aquel olivo.</div>
+		</div>
+
+		<p class="tdc">(<span class="stage-direction">Salen el
+			<span class="smcap">Comendador</span>,
+			<span class="smcap">Ortuño</span> y
+			<span class="smcap">Flores</span>.</span>)
+		</p>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line i1">Dios guarde la buena gente.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">REGIDOR</div>
+			<div class="line">¡Oh, señor!</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line"><span style="visibility: hidden">¡Oh, señor!</span>
+				Por vida mía,
+			</div>
+			<div class="line">que se estén.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">[ESTEBAN] ALCALDE</div>
+			<div class="line"><span style="visibility: hidden">que se estén.</span>
+				Vusiñoría,
+			</div>
+			<div class="line">adonde suele se siente,</div>
+			<div class="line i1">que en pie estaremos muy bien.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR<span class="pagenum">
+				<a name="Page_66" id="Page_66">[66]</a></span>
+			</div>
+			<div class="line">Digo que se han de sentar.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">ESTEBAN</div>
+			<div class="line">De los buenos es honrar,</div>
+			<div class="line">que no es posible que den</div>
+			<div class="line i1">honra los que no la tienen.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Siéntense; hablaremos algo.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">ESTEBAN</div>
+			<div class="line">¿Vió vusiñoría el galgo?</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Alcalde, espantados vienen</div>
+			<div class="line i1">esos criados de ver</div>
+			<div class="line">tan notable ligereza.</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">ESTEBAN</div>
+			<div class="line">Es una extremada pieza.</div>
+			<div class="line">Pardiez, que puede correr</div>
+			<div class="line i1">[al]
+				<a name="FNanchor_1_28" id="FNanchor_1_28"></a>
+				<a href="#Footnote_1_28" class="fnanchor">[28]</a>
+				lado de un delincuente
+			</div>
+			<div class="line">o de un cobarde en quistión
+				<a name="FNanchor_2_29" id="FNanchor_2_29"></a>
+				<a href="#Footnote_2_29" class="fnanchor">[29]</a>.
+			</div>
+		</div>
+
+		<div class="stanza">
+			<div class="linetc">COMENDADOR</div>
+			<div class="line">Quisiera en esta ocasión</div>
+			<div class="line">que le hiciérades pariente
+				<a name="FNanchor_3_30" id="FNanchor_3_30"></a>
+				<a href="#Footnote_3_30" class="fnanchor">[30]</a>
+			</div>
+			<div class="line">a una liebre que por pies
+				<span class="pagenum"><a name="Page_67" id="Page_67">[67]</a></span>
+			</div>
+			<div class="line">por momentos se me va.</div>
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		Sí haré, par Dios. ¿Dónde está?
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		Allá vuestra hija es.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		<span class="indent2">¡Mi hija!</span>
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		<span style="visibility: hidden">¡Mi hija!</span>
+	Sí.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		<span style="visibility: hidden">¡Mi hija! Si</span>
+	Pues ¿es buena</div>
+	para alcanzada de vos?
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		Reñilda, alcalde, por Dios.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		¿Cómo?
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		<span style="visibility: hidden">¿Cómo?</span>
+	Ha dado en darme pena.</div>
+	<span class="indent2">Mujer hay, y principal,</span></div>
+	de alguno que está en la plaza,</div>
+	que dió, a la primera traza,</div>
+	traza de verme.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		<span style="visibility: hidden">traza de verme.</span>
+	Hizo mal;</div>
+	<span class="pagenum"><a name="Page_68" id="Page_68">[68]</a></span>
+	<span class="indent2">y vos, señor, no andáis bien</span></div>
+	en hablar tan libremente.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		¡Oh, qué villano elocuente!</div>
+	¡Ah, Flores!, haz que le den</div>
+	<span class="indent2">la <em>Política</em>, en que lea</span></div>
+	de Aristóteles.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">ESTEBAN</div>
+		<span style="visibility: hidden">de Aristóteles.</span>
+	Señor,</div>
+	debajo de vuestro honor</div>
+	vivir el pueblo desea.</div>
+	<span class="indent2">Mirad que en Fuente Ovejuna</span></div>
+	hay gente muy principal.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">LEONELO</div>
+		¿Vióse desvergüenza igual?
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		Pues ¿he dicho cosa alguna</div>
+	<span class="indent2">de que os pese, regidor?</span>
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">REGIDOR</div>
+		Lo que decís es injusto;</div>
+	no lo digáis, que no es justo</div>
+	que nos quitéis el honor.
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		<span class="indent2">¿Vosotros honor tenéis?</span></div>
+	¡Qué freiles de Calatrava!</p>
+	<span class="pagenum"><a name="Page_69" id="Page_69">[69]</a></span>
+
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">REGIDOR</div>
+		Alguno acaso se alaba</div>
+	de la cruz que le ponéis,</div>
+	<span class="indent2">que no es de sangre tan limpia.</span>
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">COMENDADOR</div>
+		Y ¿ensucióla yo juntando</div>
+	la mía a la vuestra?
+		</div>
+
+		<div class="stanza">
+				<div class="linetc">REGIDOR</div>
+		<span style="visibility: hidden">la mía a la vuestra?</span>
+	Cuando</div>
+	que el mal más tiñe que alimpia.
+		</div>
+
+<!--		<div class="stanza">-->
+	</div><!-- poetry -->
+</div> <!--poetry-container -->
+
+
 
 	<h2><a name="FOOTNOTES" id="FOOTNOTES">NOTAS</a></h2>
 	
