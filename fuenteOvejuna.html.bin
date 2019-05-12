@@ -3,161 +3,161 @@
  'Pg002' => {'offset' => '14.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg003' => {'offset' => '15.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg004' => {'offset' => '27.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg005' => {'offset' => '34.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg006' => {'offset' => '44.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg007' => {'offset' => '66.36', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg008' => {'offset' => '82.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg009' => {'offset' => '82.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg010' => {'offset' => '108.1', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg011' => {'offset' => '109.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg012' => {'offset' => '113.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg013' => {'offset' => '113.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg014' => {'offset' => '152.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg015' => {'offset' => '187.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg016' => {'offset' => '222.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg017' => {'offset' => '258.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg018' => {'offset' => '293.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg019' => {'offset' => '318.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg020' => {'offset' => '356.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg021' => {'offset' => '390.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg022' => {'offset' => '426.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg023' => {'offset' => '465.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg024' => {'offset' => '502.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg025' => {'offset' => '531.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg026' => {'offset' => '568.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg027' => {'offset' => '607.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg028' => {'offset' => '640.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg029' => {'offset' => '673.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg030' => {'offset' => '711.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg031' => {'offset' => '754.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg032' => {'offset' => '793.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg033' => {'offset' => '825.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg034' => {'offset' => '861.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg035' => {'offset' => '900.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg036' => {'offset' => '937.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg037' => {'offset' => '974.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg038' => {'offset' => '1008.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg039' => {'offset' => '1038.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg040' => {'offset' => '1075.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg041' => {'offset' => '1107.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg042' => {'offset' => '1142.13', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg043' => {'offset' => '1182.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg044' => {'offset' => '1221.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg045' => {'offset' => '1262.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg046' => {'offset' => '1302.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg047' => {'offset' => '1333.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg048' => {'offset' => '1368.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg049' => {'offset' => '1399.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg050' => {'offset' => '1434.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg051' => {'offset' => '1468.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg052' => {'offset' => '1502.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg053' => {'offset' => '1537.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg054' => {'offset' => '1573.8', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg055' => {'offset' => '1610.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg056' => {'offset' => '1644.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg057' => {'offset' => '1682.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg058' => {'offset' => '1715.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg059' => {'offset' => '1715.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg060' => {'offset' => '1721.19', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg061' => {'offset' => '1722.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg062' => {'offset' => '1753.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg063' => {'offset' => '1793.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg064' => {'offset' => '1830.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg065' => {'offset' => '1869.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg066' => {'offset' => '1911.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg067' => {'offset' => '1952.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg068' => {'offset' => '1996.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg069' => {'offset' => '2035.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg070' => {'offset' => '2079.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg071' => {'offset' => '2122.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg072' => {'offset' => '2164.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg073' => {'offset' => '2203.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg074' => {'offset' => '2243.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg075' => {'offset' => '2285.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg076' => {'offset' => '2320.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg077' => {'offset' => '2356.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg078' => {'offset' => '2400.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg079' => {'offset' => '2438.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg080' => {'offset' => '2479.33', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg081' => {'offset' => '2520.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg082' => {'offset' => '2565.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg083' => {'offset' => '2605.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg084' => {'offset' => '2645.17', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg085' => {'offset' => '2685.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg086' => {'offset' => '2726.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg087' => {'offset' => '2764.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg088' => {'offset' => '2801.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg089' => {'offset' => '2840.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg090' => {'offset' => '2879.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg091' => {'offset' => '2918.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg092' => {'offset' => '2955.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg093' => {'offset' => '2995.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg094' => {'offset' => '3036.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg095' => {'offset' => '3078.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg096' => {'offset' => '3119.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg097' => {'offset' => '3161.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg098' => {'offset' => '3201.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg099' => {'offset' => '3242.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg100' => {'offset' => '3278.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg101' => {'offset' => '3312.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg102' => {'offset' => '3350.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg103' => {'offset' => '3389.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg104' => {'offset' => '3429.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg105' => {'offset' => '3467.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg106' => {'offset' => '3503.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg107' => {'offset' => '3540.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg108' => {'offset' => '3547.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg109' => {'offset' => '3547.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg110' => {'offset' => '3586.38', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg111' => {'offset' => '3623.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg112' => {'offset' => '3661.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg113' => {'offset' => '3701.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg114' => {'offset' => '3741.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg115' => {'offset' => '3773.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg116' => {'offset' => '3804.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg117' => {'offset' => '3841.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg118' => {'offset' => '3879.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg119' => {'offset' => '3916.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg120' => {'offset' => '3960.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg121' => {'offset' => '4004.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg122' => {'offset' => '4047.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg123' => {'offset' => '4088.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg124' => {'offset' => '4133.34', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg125' => {'offset' => '4174.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg126' => {'offset' => '4218.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg127' => {'offset' => '4262.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg128' => {'offset' => '4298.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg129' => {'offset' => '4335.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg130' => {'offset' => '4366.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg131' => {'offset' => '4398.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg132' => {'offset' => '4435.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg133' => {'offset' => '4472.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg134' => {'offset' => '4517.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg135' => {'offset' => '4558.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg136' => {'offset' => '4597.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg137' => {'offset' => '4637.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg138' => {'offset' => '4678.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg139' => {'offset' => '4714.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg140' => {'offset' => '4752.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg141' => {'offset' => '4792.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg142' => {'offset' => '4831.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg143' => {'offset' => '4875.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg144' => {'offset' => '4916.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg145' => {'offset' => '4960.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg146' => {'offset' => '5004.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg147' => {'offset' => '5042.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg148' => {'offset' => '5088.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg149' => {'offset' => '5135.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg150' => {'offset' => '5181.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg151' => {'offset' => '5223.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg152' => {'offset' => '5261.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg153' => {'offset' => '5297.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg154' => {'offset' => '5334.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg155' => {'offset' => '5369.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg156' => {'offset' => '5407.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg157' => {'offset' => '5442.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg158' => {'offset' => '5475.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg159' => {'offset' => '5493.3', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg005' => {'offset' => '34.37', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg006' => {'offset' => '42.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg007' => {'offset' => '60.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg008' => {'offset' => '75.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg009' => {'offset' => '75.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg010' => {'offset' => '93.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg011' => {'offset' => '94.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg012' => {'offset' => '98.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg013' => {'offset' => '98.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg014' => {'offset' => '137.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg015' => {'offset' => '171.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg016' => {'offset' => '206.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg017' => {'offset' => '242.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg018' => {'offset' => '277.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg019' => {'offset' => '302.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg020' => {'offset' => '340.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg021' => {'offset' => '374.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg022' => {'offset' => '410.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg023' => {'offset' => '449.31', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg024' => {'offset' => '486.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg025' => {'offset' => '515.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg026' => {'offset' => '552.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg027' => {'offset' => '591.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg028' => {'offset' => '624.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg029' => {'offset' => '657.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg030' => {'offset' => '695.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg031' => {'offset' => '738.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg032' => {'offset' => '777.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg033' => {'offset' => '809.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg034' => {'offset' => '845.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg035' => {'offset' => '884.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg036' => {'offset' => '921.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg037' => {'offset' => '958.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg038' => {'offset' => '992.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg039' => {'offset' => '1022.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg040' => {'offset' => '1059.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg041' => {'offset' => '1091.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg042' => {'offset' => '1126.13', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg043' => {'offset' => '1166.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg044' => {'offset' => '1205.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg045' => {'offset' => '1246.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg046' => {'offset' => '1286.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg047' => {'offset' => '1317.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg048' => {'offset' => '1352.2', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg049' => {'offset' => '1383.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg050' => {'offset' => '1418.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg051' => {'offset' => '1452.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg052' => {'offset' => '1486.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg053' => {'offset' => '1521.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg054' => {'offset' => '1557.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg055' => {'offset' => '1594.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg056' => {'offset' => '1628.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg057' => {'offset' => '1666.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg058' => {'offset' => '1699.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg059' => {'offset' => '1699.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg060' => {'offset' => '1705.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg061' => {'offset' => '1706.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg062' => {'offset' => '1737.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg063' => {'offset' => '1777.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg064' => {'offset' => '1814.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg065' => {'offset' => '1853.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg066' => {'offset' => '1895.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg067' => {'offset' => '1936.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg068' => {'offset' => '1980.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg069' => {'offset' => '2019.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg070' => {'offset' => '2063.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg071' => {'offset' => '2106.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg072' => {'offset' => '2148.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg073' => {'offset' => '2187.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg074' => {'offset' => '2227.12', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg075' => {'offset' => '2269.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg076' => {'offset' => '2304.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg077' => {'offset' => '2340.16', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg078' => {'offset' => '2384.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg079' => {'offset' => '2422.10', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg080' => {'offset' => '2463.26', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg081' => {'offset' => '2504.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg082' => {'offset' => '2549.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg083' => {'offset' => '2589.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg084' => {'offset' => '2629.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg085' => {'offset' => '2669.20', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg086' => {'offset' => '2710.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg087' => {'offset' => '2748.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg088' => {'offset' => '2785.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg089' => {'offset' => '2824.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg090' => {'offset' => '2863.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg091' => {'offset' => '2902.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg092' => {'offset' => '2939.9', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg093' => {'offset' => '2979.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg094' => {'offset' => '3020.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg095' => {'offset' => '3062.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg096' => {'offset' => '3103.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg097' => {'offset' => '3145.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg098' => {'offset' => '3185.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg099' => {'offset' => '3226.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg100' => {'offset' => '3262.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg101' => {'offset' => '3296.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg102' => {'offset' => '3334.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg103' => {'offset' => '3373.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg104' => {'offset' => '3413.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg105' => {'offset' => '3451.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg106' => {'offset' => '3487.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg107' => {'offset' => '3524.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg108' => {'offset' => '3531.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg109' => {'offset' => '3531.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg110' => {'offset' => '3570.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg111' => {'offset' => '3607.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg112' => {'offset' => '3645.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg113' => {'offset' => '3685.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg114' => {'offset' => '3725.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg115' => {'offset' => '3757.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg116' => {'offset' => '3788.22', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg117' => {'offset' => '3825.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg118' => {'offset' => '3863.30', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg119' => {'offset' => '3900.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg120' => {'offset' => '3944.41', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg121' => {'offset' => '3988.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg122' => {'offset' => '4031.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg123' => {'offset' => '4072.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg124' => {'offset' => '4117.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg125' => {'offset' => '4158.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg126' => {'offset' => '4202.28', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg127' => {'offset' => '4246.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg128' => {'offset' => '4282.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg129' => {'offset' => '4319.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg130' => {'offset' => '4350.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg131' => {'offset' => '4382.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg132' => {'offset' => '4419.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg133' => {'offset' => '4456.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg134' => {'offset' => '4501.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg135' => {'offset' => '4542.29', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg136' => {'offset' => '4581.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg137' => {'offset' => '4621.9', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg138' => {'offset' => '4662.14', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg139' => {'offset' => '4698.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg140' => {'offset' => '4736.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg141' => {'offset' => '4776.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg142' => {'offset' => '4815.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg143' => {'offset' => '4859.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg144' => {'offset' => '4900.5', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg145' => {'offset' => '4944.18', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg146' => {'offset' => '4988.25', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg147' => {'offset' => '5026.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg148' => {'offset' => '5072.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg149' => {'offset' => '5119.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg150' => {'offset' => '5165.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg151' => {'offset' => '5207.24', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg152' => {'offset' => '5245.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg153' => {'offset' => '5281.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg154' => {'offset' => '5318.27', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg155' => {'offset' => '5353.23', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg156' => {'offset' => '5391.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg157' => {'offset' => '5426.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg158' => {'offset' => '5459.4', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg159' => {'offset' => '5477.3', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'carlosrc';
@@ -956,58 +956,58 @@ $::proofers{'159'}[3] = 'team';
 $::proofers{'159'}[4] = 'carlosrc';
 $::proofers{'159'}[5] = 'ellinora';
 
-$::operationshash{'Check , Upper'}='2018-08-07 11:37';
-$::operationshash{'multilingual spelling'}='2018-08-07 23:56';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._3.txt'}='2018-08-08 00:47';
-$::operationshash{'Begin Page Separators Fixup'}='2018-08-07 11:05';
-$::operationshash{'Check words with possible ligatures'}='2018-08-07 11:38';
-$::operationshash{'W3C Validate'}='2018-08-20 00:03';
-$::operationshash{'Check MiXeD CasE'}='2018-08-07 11:39';
-$::operationshash{'Check alpha/num'}='2018-08-07 11:20';
-$::operationshash{'Check hyphens'}='2018-08-07 11:30';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._second'}='2018-08-08 00:09';
-$::operationshash{'Found no more orphaned /* */'}='2018-08-07 11:40';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna.txt'}='2018-08-05 15:32';
-$::operationshash{'Word Frequency'}='2018-08-07 11:18';
-$::operationshash{'HTML Tidy'}='2018-08-20 00:04';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._firsttxt'}='2018-08-07 11:03';
-$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2018-08-07 11:41';
-$::operationshash{'ppvimage'}='2018-08-18 18:56';
-$::operationshash{'Check . lower'}='2018-08-07 11:38';
-$::operationshash{'Remove end-of-line spaces'}='2018-08-08 15:40';
-$::operationshash{'pphtml'}='2018-08-20 00:04';
-$::operationshash{'Found no more /p..p/ blocks'}='2018-08-07 11:58';
-$::operationshash{'Spellcheck'}='2018-08-07 23:57';
-$::operationshash{'Check words with unicode chars > FF'}='2018-08-07 11:38';
-$::operationshash{'Check ALL CAPS'}='2018-08-07 11:39';
-$::operationshash{'Found last page separator'}='2018-08-07 11:11';
-$::operationshash{'Found no more orphaned <>'}='2018-08-07 11:40';
-$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/fuenteOvejuna.html'}='2018-08-20 00:01';
-$::operationshash{'Footnote check passed'}='2018-08-08 10:05';
-$::operationshash{'WF Check Ital/Bold/SC'}='2018-08-07 11:32';
-$::operationshash{'Gutcheck'}='2018-08-08 15:48';
-$::operationshash{'Remove blank lines before page separators'}='2018-08-08 15:40';
-$::operationshash{'Check words with initial caps'}='2018-08-07 11:39';
-$::operationshash{'Stealth Scannos'}='2018-08-08 00:55';
-$::operationshash{'Check spelling wordfrequency'}='2018-08-07 11:21';
-$::operationshash{'Moved footnotes to end-of-paragraph'}='2018-08-08 10:06';
-$::operationshash{'Check Character Cnts'}='2018-08-07 11:53';
-$::operationshash{'Found no more orphaned /$ $/'}='2018-08-07 11:41';
-$::operationshash{'Check emdashes'}='2018-08-07 11:30';
-$::operationshash{'Found no more orphaned {}'}='2018-08-07 11:40';
 $::operationshash{'Open /home/roberto/sda/pgdp/Books/FuenteOvejuna/fuenteOvejuna.html'}='2019-04-20 23:52';
+$::operationshash{'Spellcheck'}='2018-08-07 23:57';
 $::operationshash{'Check Accents'}='2018-08-07 11:38';
-$::operationshash{'Found no more orphaned /# #/'}='2018-08-07 11:40';
-$::operationshash{'Open /home/roberto/PGDP/Book/FuenteOvejuna/fuenteOvejuna.html'}='2019-04-24 22:43';
-$::operationshash{'Reindex footnotes'}='2018-08-08 10:05';
-$::operationshash{'W3C Validate CSS'}='2018-08-20 00:04';
-$::operationshash{'Check Stealthos Word Frequency'}='2018-08-07 11:38';
-$::operationshash{'Found no more orphaned ()'}='2018-08-07 11:40';
-$::operationshash{'Link Check'}='2018-08-20 00:04';
-$::operationshash{'Footnote Fixup'}='2018-08-08 10:04';
+$::operationshash{'Check words with possible ligatures'}='2018-08-07 11:38';
+$::operationshash{'Word Frequency'}='2018-08-07 11:18';
+$::operationshash{'Remove blank lines before page separators'}='2018-08-08 15:40';
+$::operationshash{'Moved footnotes to end-of-paragraph'}='2018-08-08 10:06';
+$::operationshash{'Check . lower'}='2018-08-07 11:38';
+$::operationshash{'HTML Tidy'}='2019-05-11 19:31';
+$::operationshash{'pphtml'}='2019-05-11 19:50';
+$::operationshash{'Found no more /p..p/ blocks'}='2018-08-07 11:58';
+$::operationshash{'Check MiXeD CasE'}='2018-08-07 11:39';
+$::operationshash{'multilingual spelling'}='2018-08-07 23:56';
 $::operationshash{'Multilingual Spelling'}='2018-08-07 23:56';
+$::operationshash{'Check words with unicode chars > FF'}='2018-08-07 11:38';
+$::operationshash{'Stealth Scannos'}='2018-08-08 00:55';
+$::operationshash{'Found no more orphaned <>'}='2018-08-07 11:40';
+$::operationshash{'WF Check Ital/Bold/SC'}='2018-08-07 11:32';
+$::operationshash{'W3C Validate CSS'}='2019-05-11 19:23';
+$::operationshash{'Found no more orphaned /# #/'}='2018-08-07 11:40';
+$::operationshash{'Footnote Fixup'}='2018-08-08 10:04';
+$::operationshash{'Found last page separator'}='2018-08-07 11:11';
+$::operationshash{'Check Stealthos Word Frequency'}='2018-08-07 11:38';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._second'}='2018-08-08 00:09';
+$::operationshash{'Reindex footnotes'}='2018-08-08 10:05';
+$::operationshash{'Gutcheck'}='2018-08-08 15:48';
+$::operationshash{'Check hyphens'}='2018-08-07 11:30';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna.txt'}='2018-08-05 15:32';
+$::operationshash{'Begin Page Separators Fixup'}='2018-08-07 11:05';
+$::operationshash{'Found no more orphaned {}'}='2018-08-07 11:40';
+$::operationshash{'ppvimage'}='2019-05-11 19:57';
+$::operationshash{'W3C Validate'}='2019-05-11 19:22';
+$::operationshash{'Found no more orphaned /$ $/'}='2018-08-07 11:41';
+$::operationshash{'Link Check'}='2018-08-20 00:04';
+$::operationshash{'Found no more orphaned /* */'}='2018-08-07 11:40';
+$::operationshash{'Check , Upper'}='2018-08-07 11:37';
+$::operationshash{'Found no more orphaned ()'}='2018-08-07 11:40';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._3.txt'}='2018-08-08 00:47';
+$::operationshash{'Footnote check passed'}='2018-08-08 10:05';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/fuenteOvejuna.html'}='2018-08-20 00:01';
+$::operationshash{'Check Character Cnts'}='2018-08-07 11:53';
+$::operationshash{'Check alpha/num'}='2018-08-07 11:20';
+$::operationshash{'Open /home/roberto/sda/Books/FuenteOvejuna/FuenteOvejuna._firsttxt'}='2018-08-07 11:03';
+$::operationshash{'Check emdashes'}='2018-08-07 11:30';
+$::operationshash{'Check ALL CAPS'}='2018-08-07 11:39';
+$::operationshash{'Open /home/roberto/PGDP/Book/FuenteOvejuna/fuenteOvejuna.html'}='2019-05-11 19:57';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2018-08-07 11:41';
+$::operationshash{'Check spelling wordfrequency'}='2018-08-07 11:21';
+$::operationshash{'Check words with initial caps'}='2018-08-07 11:39';
+$::operationshash{'Remove end-of-line spaces'}='2018-08-08 15:40';
 
-$::bookmarks[0] = '256.4';
+$::bookmarks[0] = '1.0';
 
 $::pngspath = '/home/roberto/PGDP/Book/FuenteOvejuna/pngs/';
 
